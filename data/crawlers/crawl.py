@@ -4,7 +4,7 @@ import os
 import re
 
 # Hàm crawl và lưu bài viết
-def crawl_and_save_articles(url, category):
+def crawl_and_save_articles(url, category, start_index, seen_titles):
     # Tạo thư mục lưu trữ nếu chưa có
     output_dir = f"data/raw/{category}/"
     os.makedirs(output_dir, exist_ok=True)
@@ -14,12 +14,40 @@ def crawl_and_save_articles(url, category):
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # Tìm tất cả các bài viết dựa trên cấu trúc mới
-    articles = soup.find_all('h3', {'class': 'title-news'})
+    articles = soup.find_all('h2', {'class': 'title-news'})
+
+    # Kiểm tra xem có bài viết nào không
+    if not articles:
+        print(f"Không có bài viết nào trên trang {url}. Dừng crawl.")
+        return False  # Trả về False nếu không có bài viết
+
+    # Đọc số lượng các bài viết đã có trong thư mục để xác định chỉ số tiếp theo
+    existing_files = os.listdir(output_dir)
+    existing_files = [f for f in existing_files if f.endswith('.txt')]  # Chỉ lấy các file .txt
+    
+    # Lấy chỉ số file cao nhất hiện tại trong thư mục
+    max_index = 0
+    for file in existing_files:
+        # Trích xuất chỉ số từ tên file (ví dụ sports_1.txt => 1)
+        match = re.search(rf'{category}_(\d+)\.txt', file)
+        if match:
+            max_index = max(max_index, int(match.group(1)))
+
+    # Bắt đầu từ chỉ số tiếp theo
+    start_index = max_index + 1
 
     # Duyệt qua các bài viết và lưu
-    for i, article in enumerate(articles):
+    for i, article in enumerate(articles, start=start_index):
         # Lấy tiêu đề bài viết
         title = article.find('a').get_text().strip()
+
+        # Kiểm tra nếu tiêu đề đã tồn tại, bỏ qua bài viết này
+        if title in seen_titles:
+            print(f"Bài viết '{title}' đã tồn tại, bỏ qua.")
+            continue  # Bỏ qua bài viết nếu tiêu đề đã trùng
+
+        # Thêm tiêu đề vào tập hợp đã gặp
+        seen_titles.add(title)
 
         # Mở liên kết bài viết để lấy nội dung chi tiết
         link = article.find('a').get('href')
@@ -30,9 +58,13 @@ def crawl_and_save_articles(url, category):
             article_response = requests.get(link)
             article_soup = BeautifulSoup(article_response.content, 'html.parser')
 
-            # Loại bỏ các thẻ ảnh để tránh lưu dữ liệu ảnh
-            for img_tag in article_soup.find_all(['picture', 'img']):
-                img_tag.decompose()
+            # Loại bỏ các thẻ ảnh, caption và thẻ <p> có class "Normal" và style "text-align:right"
+            for tag in article_soup.find_all(['picture', 'img', 'figcaption']):
+                tag.decompose()
+
+            # Loại bỏ thẻ <p> có class "Normal" và style "text-align:right"
+            for p_tag in article_soup.find_all('p', {'class': 'Normal', 'style': 'text-align:right;'}):
+                p_tag.decompose()
 
             # Lấy nội dung bài viết
             content = article_soup.find('article')
@@ -40,28 +72,46 @@ def crawl_and_save_articles(url, category):
                 # Lấy nội dung và loại bỏ các khoảng trắng dư thừa
                 text = content.get_text().strip()
 
-                # Loại bỏ các dòng trống dư thừa
-                text = re.sub(r'\n\s*\n', '\n', text)  # Thay thế các dòng trống bằng một dòng trống duy nhất
+                # Kiểm tra xem nội dung có rỗng hay không
+                if text:
+                    # Loại bỏ các dòng trống dư thừa
+                    text = re.sub(r'\n\s*\n', '\n', text)  # Thay thế các dòng trống bằng một dòng trống duy nhất
 
-                # Lưu bài viết vào tệp .txt theo đường dẫn tương đối
-                file_path = os.path.join(output_dir, f"{category}_{i + 1}.txt")
-                
-                # Ghi tiêu đề và nội dung vào tệp (Không ghi "Title: ")
-                with open(file_path, 'w', encoding='utf-8') as f:
-                    f.write(f"{title}\n")  # Lưu tiêu đề bài viết
-                    f.write(f"{text}\n")  # Lưu nội dung bài viết
-                print(f"Đã lưu bài viết {i + 1}: {title}")
+                    # Lưu bài viết vào tệp .txt theo đường dẫn tương đối
+                    file_path = os.path.join(output_dir, f"{category}_{i}.txt")
+                    
+                    # Ghi nội dung vào file
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(f"{title}\n")  # Lưu tiêu đề bài viết
+                        f.write(f"{text}\n")  # Lưu nội dung bài viết
+                    print(f"Đã lưu bài viết {i}: {title}")
+                else:
+                    print(f"Bài viết {i} không có nội dung, bỏ qua: {title}")
             else:
-                print(f"Không tìm thấy nội dung trong bài viết {i + 1}: {title}")
+                print(f"Không tìm thấy nội dung trong bài viết {i}: {title}")
         except requests.exceptions.RequestException as e:
-            print(f"Lỗi khi lấy bài viết {i + 1}: {title}. Lỗi: {e}")
+            print(f"Lỗi khi lấy bài viết {i}: {title}. Lỗi: {e}")
+
+    return True  # Nếu có bài viết, trả về True để tiếp tục crawl
 
 # Hàm chính để truyền thể loại và URL
-def main(category, url):
-    crawl_and_save_articles(url, category)
+def main(category, base_url, start_page, end_page):
+    seen_titles = set()  # Tạo tập hợp để theo dõi các tiêu đề đã gặp
+    # Duyệt qua các trang từ start_page đến end_page
+    for page in range(start_page, end_page + 1):
+        # Tạo URL cho mỗi trang
+        url = f"{base_url}-p{page}"
+        print(f"Đang crawl trang {page}: {url}")
+        
+        # Gọi hàm crawl_and_save_articles
+        should_continue = crawl_and_save_articles(url, category, start_page, seen_titles)
+        
+        # Nếu không còn bài viết, dừng crawl
+        if not should_continue:
+            break
 
-# Ví dụ gọi hàm main cho thể loại 'economy'
-main("entertaiment", "https://vnexpress.net/giai-tri")
+# Ví dụ gọi hàm main cho thể loại 'technology', từ trang 6 đến trang 36
+main("sports", "https://vnexpress.net/the-thao", 2, 20)
 
-# Ví dụ gọi hàm main cho thể loại 'sports'
-# main("sports", "https://vnexpress.net/the-thao")
+# Ví dụ gọi hàm main cho thể loại 'sports', từ trang 6 đến trang 36
+# main("sports", "https://vnexpress.net/the-thao", 6, 36)
