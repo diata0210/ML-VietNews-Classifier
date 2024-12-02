@@ -109,9 +109,6 @@ def main(category, base_url, start_page, end_page):
         # Nếu không còn bài viết, dừng crawl
         if not should_continue:
             break
-
-# Ví dụ gọi hàm main cho thể loại 'technology', từ trang 6 đến trang 36
+# Crawl từ trang 2 đến trang 20 nhé
+# Ví dụ gọi hàm main cho thể loại 'sports', từ trang 2 đến trang 20
 main("sports", "https://vnexpress.net/the-thao", 2, 20)
-
-# Ví dụ gọi hàm main cho thể loại 'sports', từ trang 6 đến trang 36
-# main("sports", "https://vnexpress.net/the-thao", 6, 36)
