@@ -1,0 +1,9 @@
+Nghị sĩ Quốc hội Đức bị email giả mạo 'qua mặt'
+Theo Spiegel, cuối tuần qua, Bundestag tiến hành bài kiểm tra bí mật bằng cách gửi email giả mạo (phishing) lấy danh nghĩa ban quản lý của Bundestag đến các thành viên quốc hội. Nhiều nghị sĩ và nhân viên đã vượt qua bài kiểm tra, nhưng một số vẫn bị lừa tiết lộ thông tin nhạy cảm, như tên người dùng và mật khẩu.
+Tất cả nghị sĩ và nhân viên Bundestag sau đó nhận được thư giải thích về cuộc kiểm tra, trong đó nêu: "Đây là hành động hoàn toàn cần thiết nhằm bảo vệ hệ thống hiệu quả trước các chiến dịch tấn công giả mạo thực sự". Thư cũng đề nghị những ai lỡ bấm vào liên kết trong email, hoặc đã điền thông tin đăng nhập, nên thay đổi mật khẩu như một biện pháp phòng ngừa.Theo Tom's Hardware, là cơ quan chính phủ quan trọng của Đức, Bundestag là mục tiêu tấn công mạng hàng đầu, và phishing là kỹ thuật phổ biến được kẻ xấu sử dụng. Năm 2015, cơ quan này từng bị hacker xâm nhập,lấy đi ít nhất 16 GB dữ liệu và khiến hệ thống bị ngưng trệ.Phishing là một dạng tấn công mạng, trong đó kẻ xấu mạo danh người quen hoặc tổ chức uy tín, dẫn dụ nạn nhân truy cập vào trang giả mạo, từ đó thu thập thông tin để thực hiện các giao dịch bất chính. Phương thức này thường được thực hiện thông qua email và tin nhắn.
+Tấn công mạng nhắm vào website chính phủ Pháp
+Nhiều doanh nghiệp Mỹ quay về dùng giấy vì tấn công mạng
+Bốn người Việt bị cáo buộc tấn công mạng Mỹ, gây thiệt hại 71 triệu USD
+Tấn công mạng nhắm vào website chính phủ Pháp
+Nhiều doanh nghiệp Mỹ quay về dùng giấy vì tấn công mạng
+Bốn người Việt bị cáo buộc tấn công mạng Mỹ, gây thiệt hại 71 triệu USD

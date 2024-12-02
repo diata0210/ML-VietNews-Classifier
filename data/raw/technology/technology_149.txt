@@ -1,0 +1,13 @@
+CEO Qualcomm: Smartphone AI sẽ phổ biến trong 5 năm nữa
+"Trong 5 năm tới, có lẽ tất cả chúng ta sẽ có smartphone AI", ông Amon nói với Bloomberg sau sự kiện ra mắt chip Snapdragon 8 Elite ngày 22/10. "Vấn đề là, chúng ta sẽ phải xử lý các vấn đề phát sinh khi trải nghiệm thực tế, điều từng xảy ra trong quá trình chuyển đổi từ điện thoại cơ bản sang điện thoại thông minh".
+Theo TechRadar, giới chuyên gia cũng đánh giá smartphone AI sẽ là xu hướng tiếp theo trên điện thoại di động. Hàng loạt "ông lớn" đã tích hợp AI tạo sinh có thể chạy cục bộ vào smartphone, như Google, Samsung, trong khi Apple cũng sắp đưa Apple Intelligence lên thế hệ iPhone 16 và hai mẫu iPhone 15 Pro.Công ty nghiên cứu thị trường IDC nhận định, kể từ khi ChatGPT xuất hiện cuối 2022, AI tạo sinh đang trở thành luồng gió mới, mang đến trải nghiệm nâng cao và công cụ tăng năng suất chưa từng có lên thiết bị di động. Dự kiến smartphone tích hợp AI tạo sinh năm nay đạt 234,2 triệu máy, tăng 364% so với năm trước. Đến 2027, con số có thể là 912 triệu máy.Qualcomm đang chiếm ưu thế trên thị trường chip xử lý cho thiết bị di động sử dụng hệ điều hành Android. Ngày 22/10, công ty công bố chip tích hợp khả năng xử lý AI cho di động Snapdragon 8 Elite - thế hệ tiếp theo của Snapdragon 8 Gen 3. Mẫu chip này sử dụng kiến trúc Oryon do Qualcomm tự phát triển thay vì kiến trúc Arm.Snapdragon 8 Elite sản xuất trên tiến trình 3 nm, sử dụng 8 lõi xử lý, gồm hai lõi hiệu năng cao với xung nhịp 4,32 GHz và 6 lõi tiết kiệm năng lượng 3,53 GHz. Theo Qualcomm, chip mới đạt hiệu suất cao hơn 45% và tiết kiệm năng lượng 45% so với Snapdragon 8 Gen 3. Với khả năng xử lý đồ họa, chip cũng cải thiện 40% so với "đàn anh", mức được xem là bước nhảy vọt so với những thế hệ trước vốn tăng 15-25% mỗi năm.
+Cuộc đua đưa AI tạo sinh lên smartphone
+Galaxy AI sẽ có mặt trên hàng triệu smartphone
+Bài toán giữa sự tiện lợi và riêng tư trong kỷ nguyên AI tạo sinh
+Smartphone AI đã cần thiết?
+Lý do thiết bị AI chưa thể thay thế smartphone
+Cuộc đua đưa AI tạo sinh lên smartphone
+Galaxy AI sẽ có mặt trên hàng triệu smartphone
+Bài toán giữa sự tiện lợi và riêng tư trong kỷ nguyên AI tạo sinh
+Smartphone AI đã cần thiết?
+Lý do thiết bị AI chưa thể thay thế smartphone
