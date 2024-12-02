@@ -1,0 +1,11 @@
+Google xin lỗi vì 15 triệu mật khẩu người dùng Chrome 'biến mất'
+Trong lời xin lỗi trên blog cuối tuần qua, Google cho biết sự cố được ghi nhận từ ngày 24/7 và kéo dài sang 25/7. Công ty giải thích vấn đề do "thay đổi bên trong sản phẩm mà không có tính năng bảo vệ phù hợp".
+Hãng xác nhận sự cố mật khẩu ảnh hưởng đến người dùng Chrome trên toàn thế giới, khiến họ không thể tìm thấy bất kỳ mật khẩu nào đã lưu trong trình duyệt bằng trình quản lý mật khẩu. Mật khẩu mới lưu cũng "vô hình" vì lỗi này. Tuy nhiên, vấn đề chỉ xảy ra với phiên bản M127 của trình duyệt Chrome trên hệ điều hành Windows.Dựa trên cơ sở hơn 3 tỷ người dùng Chrome, trong đó thiết bị Windows chiếm phần lớn, Google cho biết 25% bị thay đổi cấu hình trong trình duyệt, tương đương 750 triệu tài khoản. Công ty ước tính 2% người dùng gặp vấn đề về trình quản lý mật khẩu, tương đương 15 triệu tài khoản, nhưng không đề cập đến việc chúng bị lộ ra bên ngoài hay chưa.Sau khi phát hiện lỗi, đội ngũ Google đưa giải pháp xử lý, nhưng bị phàn nàn là "không thân thiện" vì đòi hỏi người dùng cần phải kiến thức kỹ thuật. Hãng cho biết người dùng nên liên hệ bộ phận kỹ thuật của công ty và cập nhật Chrome lên bản mới nhất.Theo Forbes, dù đã được khắc phục, sự cố đã nêu bật những rủi ro đối với người dùng trong việc phụ thuộc quản lý mật khẩu bằng trình duyệt. Trang này khuyến cáo người dùng nên lưu trữ mật khẩu bằng công cụ riêng, có giải pháp sao lưu để đề phòng trường hợp trình duyệt gặp lỗi.
+Google hủy kế hoạch xóa cookie khỏi Chrome
+Google ra mắt bản Chrome thu phí
+Hàng chục triệu người dùng Chrome gặp nguy cơ vì cài extension
+Nhân viên Google không tin chế độ ẩn danh trên Chrome
+Google hủy kế hoạch xóa cookie khỏi Chrome
+Google ra mắt bản Chrome thu phí
+Hàng chục triệu người dùng Chrome gặp nguy cơ vì cài extension
+Nhân viên Google không tin chế độ ẩn danh trên Chrome
