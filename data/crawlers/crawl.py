@@ -4,7 +4,7 @@ import os
 import re
 
 # Hàm crawl và lưu bài viết
-def crawl_and_save_articles(url, category, start_index, seen_titles):
+def crawl_and_save_articles(url, category, seen_titles):
     # Tạo thư mục lưu trữ nếu chưa có
     output_dir = f"data/raw/{category}/"
     os.makedirs(output_dir, exist_ok=True)
@@ -25,29 +25,27 @@ def crawl_and_save_articles(url, category, start_index, seen_titles):
     existing_files = os.listdir(output_dir)
     existing_files = [f for f in existing_files if f.endswith('.txt')]  # Chỉ lấy các file .txt
     
-    # Lấy chỉ số file cao nhất hiện tại trong thư mục
-    max_index = 0
+    # Lấy tất cả chỉ số file đã tồn tại
+    existing_indices = set()
     for file in existing_files:
-        # Trích xuất chỉ số từ tên file (ví dụ sports_1.txt => 1)
         match = re.search(rf'{category}_(\d+)\.txt', file)
         if match:
-            max_index = max(max_index, int(match.group(1)))
+            existing_indices.add(int(match.group(1)))
 
-    # Bắt đầu từ chỉ số tiếp theo
-    start_index = max_index + 1
+    # Tìm chỉ số tiếp theo mà không trùng
+    next_index = 1
+    while next_index in existing_indices:
+        next_index += 1
 
     # Duyệt qua các bài viết và lưu
-    for i, article in enumerate(articles, start=start_index):
+    for i, article in enumerate(articles, start=next_index):
         # Lấy tiêu đề bài viết
         title = article.find('a').get_text().strip()
 
         # Kiểm tra nếu tiêu đề đã tồn tại, bỏ qua bài viết này
         if title in seen_titles:
             print(f"Bài viết '{title}' đã tồn tại, bỏ qua.")
-            continue  # Bỏ qua bài viết nếu tiêu đề đã trùng
-
-        # Thêm tiêu đề vào tập hợp đã gặp
-        seen_titles.add(title)
+            continue  # Bỏ qua bài viết nếu tiêu đề đã tồn tại
 
         # Mở liên kết bài viết để lấy nội dung chi tiết
         link = article.find('a').get('href')
@@ -58,13 +56,9 @@ def crawl_and_save_articles(url, category, start_index, seen_titles):
             article_response = requests.get(link)
             article_soup = BeautifulSoup(article_response.content, 'html.parser')
 
-            # Loại bỏ các thẻ ảnh, caption và thẻ <p> có class "Normal" và style "text-align:right"
-            for tag in article_soup.find_all(['picture', 'img', 'figcaption']):
-                tag.decompose()
-
-            # Loại bỏ thẻ <p> có class "Normal" và style "text-align:right"
-            for p_tag in article_soup.find_all('p', {'class': 'Normal', 'style': 'text-align:right;'}):
-                p_tag.decompose()
+            # Loại bỏ các thẻ ảnh để tránh lưu dữ liệu ảnh
+            for img_tag in article_soup.find_all(['picture', 'img']):
+                img_tag.decompose()
 
             # Lấy nội dung bài viết
             content = article_soup.find('article')
@@ -96,7 +90,7 @@ def crawl_and_save_articles(url, category, start_index, seen_titles):
 
 # Hàm chính để truyền thể loại và URL
 def main(category, base_url, start_page, end_page):
-    seen_titles = set()  # Tạo tập hợp để theo dõi các tiêu đề đã gặp
+    seen_titles = set()  # Lưu trữ các tiêu đề đã thấy để tránh trùng lặp
     # Duyệt qua các trang từ start_page đến end_page
     for page in range(start_page, end_page + 1):
         # Tạo URL cho mỗi trang
@@ -104,14 +98,11 @@ def main(category, base_url, start_page, end_page):
         print(f"Đang crawl trang {page}: {url}")
         
         # Gọi hàm crawl_and_save_articles
-        should_continue = crawl_and_save_articles(url, category, start_page, seen_titles)
+        should_continue = crawl_and_save_articles(url, category, seen_titles)
         
         # Nếu không còn bài viết, dừng crawl
         if not should_continue:
             break
 
-# Ví dụ gọi hàm main cho thể loại 'technology', từ trang 6 đến trang 36
-main("sports", "https://vnexpress.net/the-thao", 2, 20)
-
 # Ví dụ gọi hàm main cho thể loại 'sports', từ trang 6 đến trang 36
-# main("sports", "https://vnexpress.net/the-thao", 6, 36)
+main("sports", "https://vnexpress.net/the-thao", 2, 20)
