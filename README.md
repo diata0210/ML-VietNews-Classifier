@@ -1,4 +1,3 @@
-text_classification_project/
 │data/
 │
 ├── raw/ # Dữ liệu chưa qua xử lý
@@ -11,7 +10,6 @@ text_classification_project/
 │ ├── entertainment/ # Dữ liệu giải trí
 │ ├── lifestyle/ # Dữ liệu đời sống & xã hội
 │ ├── law/ # Dữ liệu pháp luật
-│ └── environment/ # Dữ liệu môi trường
 │
 ├── processed/ # Dữ liệu đã qua tiền xử lý
 │ ├── sports.csv # Dữ liệu thể thao đã xử lý

@@ -1,0 +1,12 @@
+Người dùng sớm OpenAI Sora bất mãn, tung công cụ ra bên ngoài
+Theo Gizmodo, ngày 26/11, một nhóm nghệ sĩ được sử dụng trước Sora đã phát tán công cụ kèm tài khoản để ai cũng có thể tham gia tạo video bằng AI trên nền tảng Hugging Face, trước khi bị OpenAI khóa quyền truy cập.
+Một cảnh trong video do Sora tạo ra. Ảnh: OpenAI
+Ngay sau đó, nhóm 16 người tự nhận là những nghệ sĩ được quyền truy cập sớm vào Sora đã cùng đăng thư ngỏ có tiêu đề "Gửi các lãnh chúa AI" đến OpenAI. Trong đó, họ nói công ty của Sam Altman "lợi dụng" hàng trăm nghệ sĩ để "tẩy rửa nghệ thuật" mà không phải trả lương."Hàng trăm nghệ sĩ trở thành lao động không công cho OpenAI, thông qua việc kiểm tra lỗi, phản hồi, huấn luyện và thử nghiệm cho phần mềm của công ty có trị giá 150 tỷ USD", thư đăng trên Hugging Face có đoạn. "Hầu hết đóng góp tác phẩm và công sức miễn phí, chỉ một số được chọn và được trả chi phí bèo bọt, tối thiểu và không đáng kể so với giá trị tiếp thị cũng như độ tiếp cận công chúng mà OpenAI nhận được".Bên cạnh đó, nhóm nói không chỉ làm không công, OpenAI thậm chí thiếu tôn trọng nghệ sĩ. "Họ coi chúng tôi như nguyên liệu thô, không phải chuyên môn sáng tạo. Đó không phải sự hợp tác, mà là sự khai thác", theo thư ngỏ.Nhóm nghệ sĩ cũng nói họ không phản đối việc sử dụng AI như một công cụ nghệ thuật, thậm chí đang áp dụng sớm công nghệ trong các tác phẩm của chính mình. Dù vậy, họ cho rằng "đãi ngộ truy cập sớm" mà OpenAI đang triển khai dường như là chiêu trò truyền thông hơn là cơ hội tự do thử nghiệm và đánh giá công cụ.OpenAI chưa đưa ra bình luận.Sora được OpenAI phát hành vào tháng 2 nhưng chỉ giới hạn cho một nhóm nhỏ dùng thử. Mô hình cho phép tạo video dài một phút chỉ bằng những câu lệnh mô tả. Thời gian qua, một số ý kiến cho rằng công cụ có thể gặp một số rắc rối, như bản quyền. Hồi giữa năm, khi WSJ hỏi nguồn dữ liệu để đào tạo Sora có phải lấy từ YouTube không, cựu CTO Mira Murati khi đó không đưa ra câu trả lời rõ ràng. Business Insider dẫn lời CEO YouTube rằng đây thực sự là vấn đề lớn và OpenAI không nên dùng nguồn video của họ để đào tạo mô hình AI.Bảo Lâm
+Chi phí vận hành OpenAI Sora có thể lên hàng tỷ USD
+Giải mã Sora - AI tạo video gây sốt của OpenAI
+Video quảng cáo đầu tiên tạo bằng AI Sora
+MV đầu tiên tạo hoàn toàn bằng AI Sora
+Chi phí vận hành OpenAI Sora có thể lên hàng tỷ USD
+Giải mã Sora - AI tạo video gây sốt của OpenAI
+Video quảng cáo đầu tiên tạo bằng AI Sora
+MV đầu tiên tạo hoàn toàn bằng AI Sora
