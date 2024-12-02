@@ -4,7 +4,7 @@ import os
 import re
 
 # Hàm crawl và lưu bài viết
-def crawl_and_save_articles(url, category, seen_titles):
+def crawl_and_save_articles(url, category, start_index, seen_titles):
     # Tạo thư mục lưu trữ nếu chưa có
     output_dir = f"data/raw/{category}/"
     os.makedirs(output_dir, exist_ok=True)
@@ -56,9 +56,13 @@ def crawl_and_save_articles(url, category, seen_titles):
             article_response = requests.get(link)
             article_soup = BeautifulSoup(article_response.content, 'html.parser')
 
-            # Loại bỏ các thẻ ảnh để tránh lưu dữ liệu ảnh
-            for img_tag in article_soup.find_all(['picture', 'img']):
-                img_tag.decompose()
+            # Loại bỏ các thẻ ảnh, caption và thẻ <p> có class "Normal" và style "text-align:right"
+            for tag in article_soup.find_all(['picture', 'img', 'figcaption','figure']):
+                tag.decompose()
+
+            # Loại bỏ thẻ <p> có class "Normal" và style "text-align:right"
+            for p_tag in article_soup.find_all('p', {'class': 'Normal', 'style': 'text-align:right;'}):
+                p_tag.decompose()
 
             # Lấy nội dung bài viết
             content = article_soup.find('article')
@@ -90,7 +94,7 @@ def crawl_and_save_articles(url, category, seen_titles):
 
 # Hàm chính để truyền thể loại và URL
 def main(category, base_url, start_page, end_page):
-    seen_titles = set()  # Lưu trữ các tiêu đề đã thấy để tránh trùng lặp
+    seen_titles = set()  # Tạo tập hợp để theo dõi các tiêu đề đã gặp
     # Duyệt qua các trang từ start_page đến end_page
     for page in range(start_page, end_page + 1):
         # Tạo URL cho mỗi trang
@@ -98,11 +102,11 @@ def main(category, base_url, start_page, end_page):
         print(f"Đang crawl trang {page}: {url}")
         
         # Gọi hàm crawl_and_save_articles
-        should_continue = crawl_and_save_articles(url, category, seen_titles)
+        should_continue = crawl_and_save_articles(url, category, start_page, seen_titles)
         
         # Nếu không còn bài viết, dừng crawl
         if not should_continue:
             break
 
-# Ví dụ gọi hàm main cho thể loại 'sports', từ trang 6 đến trang 36
+# Ví dụ gọi hàm main cho thể loại 'technology', từ trang 6 đến trang 36
 main("sports", "https://vnexpress.net/the-thao", 2, 20)
