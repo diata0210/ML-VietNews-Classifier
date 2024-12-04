@@ -5,6 +5,10 @@ import re
 
 # Hàm crawl và lưu bài viết
 def crawl_and_save_articles(url, category, start_index, seen_titles):
+    # Tạo thư mục lưu trữ trong `data/raw` (đảm bảo đúng vị trí)
+    # base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../raw"))
+    # output_dir = os.path.join(base_dir, category)
+
     # Tạo thư mục lưu trữ nếu chưa có
     output_dir = f"data/raw/{category}/"
     os.makedirs(output_dir, exist_ok=True)
@@ -14,7 +18,7 @@ def crawl_and_save_articles(url, category, start_index, seen_titles):
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # Tìm tất cả các bài viết dựa trên cấu trúc mới
-    articles = soup.find_all('h2', {'class': 'title-news'})
+    articles = soup.find_all('h3', {'class': 'title-news'})
 
     # Kiểm tra xem có bài viết nào không
     if not articles:
@@ -24,7 +28,7 @@ def crawl_and_save_articles(url, category, start_index, seen_titles):
     # Đọc số lượng các bài viết đã có trong thư mục để xác định chỉ số tiếp theo
     existing_files = os.listdir(output_dir)
     existing_files = [f for f in existing_files if f.endswith('.txt')]  # Chỉ lấy các file .txt
-    
+
     # Lấy tất cả chỉ số file đã tồn tại
     existing_indices = set()
     for file in existing_files:
@@ -77,7 +81,7 @@ def crawl_and_save_articles(url, category, start_index, seen_titles):
 
                     # Lưu bài viết vào tệp .txt theo đường dẫn tương đối
                     file_path = os.path.join(output_dir, f"{category}_{i}.txt")
-                    
+
                     # Ghi nội dung vào file
                     with open(file_path, 'w', encoding='utf-8') as f:
                         f.write(f"{title}\n")  # Lưu tiêu đề bài viết
@@ -100,13 +104,13 @@ def main(category, base_url, start_page, end_page):
         # Tạo URL cho mỗi trang
         url = f"{base_url}-p{page}"
         print(f"Đang crawl trang {page}: {url}")
-        
+
         # Gọi hàm crawl_and_save_articles
         should_continue = crawl_and_save_articles(url, category, start_page, seen_titles)
-        
+
         # Nếu không còn bài viết, dừng crawl
         if not should_continue:
             break
 
 # Ví dụ gọi hàm main cho thể loại 'technology', từ trang 6 đến trang 36
-main("lifestyle", "https://vnexpress.net/doi-song/nhip-song", 2, 30)
+main("education", "https://vnexpress.net/giao-duc", 2, 20)
