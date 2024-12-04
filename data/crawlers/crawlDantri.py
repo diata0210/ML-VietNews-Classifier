@@ -5,6 +5,10 @@ import re
 
 # Hàm crawl và lưu bài viết
 def crawl_and_save_articles(url, category, start_index, seen_titles):
+    # Tạo thư mục lưu trữ trong `data/raw` (đảm bảo đúng vị trí)
+    # base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../raw"))
+    # output_dir = os.path.join(base_dir, category)
+
     # Tạo thư mục lưu trữ nếu chưa có
     output_dir = f"data/raw/{category}/"
     os.makedirs(output_dir, exist_ok=True)
@@ -116,4 +120,4 @@ def main(category, base_url, start_page, end_page):
             break
 
 # Ví dụ gọi hàm main cho thể loại 'technology', từ trang 6 đến trang 36
-main("entertaiment", "https://dantri.com.vn/giai-tri",29, 30)
+main("education", "https://dantri.com.vn/giao-duc", 2, 30)
