@@ -1,11 +1,7 @@
-Apple chê khả năng suy luận của các mô hình AI
-Các LLM từ OpenAI, Google hay Meta được đánh giá có thể tương tác tự nhiên với con người, gần nhất là mô hình OpenAI o1 "với khả năng lập luận". Dù vậy, theo nhóm nghiên cứu của Apple, chúng chỉ đơn thuần là "khớp mẫu tinh vi" thay vì "thực sự suy luận logic".
-GSM8K hiện là bài kiểm tra phổ biến nhất để đánh giá kỹ năng suy luận của một LLM. Tuy nhiên, cũng do quá phổ biến, công cụ được cho là có thể bị "nhiễm" dữ liệu, khiến LLM có thể biết đáp án do đã được huấn luyện từ dữ liệu đó.Để kiểm tra giả thuyết này, nhóm nghiên cứu của Apple phát triển một tiêu chuẩn mới gọi là GSM-Symbolic, trong đó giữ nguyên bản chất của vấn đề cần lập luận nhưng thay đổi biến số như tên, số lượng, độ phức tạp, thêm thông tin không liên quan. Thông qua việc thử nghiệm 20 mô hình LLM phổ biến nhất như GPT-4o và o1 của OpenAI, Gemma 2 của Google và Llama 3 của Meta, kết quả cho thấy "sự mong manh đáng ngạc nhiên" trong hiệu suất của LLM.Trong bài nghiên cứu công bố trên blog tuần này, Apple cho biết mỗi khi thay đổi biến số, hiệu suất mô hình trong thử nghiệm và độ chính xác đều giảm vài phần trăm. Sản phẩm của OpenAI hoạt động tốt hơn so với LLM mã nguồn mở, nhưng chênh lệch không đáng kể.Nhóm cũng thêm vào những cụm từ không cần thiết để đo phản ứng của mô hình. Ví dụ: "Oliver hái 44 quả kiwi vào Thứ Sáu. Sau đó anh hái 58 quả kiwi vào Thứ Bảy. Vào Chủ Nhật, anh hái gấp đôi số kiwi đã hái vào Thứ Sáu, nhưng 5 quả có kích thước nhỏ hơn mức trung bình. Oliver có bao nhiêu quả kiwi?".Kết quả là hiệu suất giảm mạnh trên toàn bộ LLM. OpenAI o1 Preview đạt kết quả tốt nhất, nhưng độ chính xác giảm 17,5%, nhưng vẫn cao hơn LLM Phi 3 của Microsoft với mức giảm 65%.Trong ví dụ về bài toán tính số quả kiwi, các LLM trừ đi 5 quả kiwi nhỏ hơn mà không "hiểu" kích thước quả không liên quan đến bài toán. "Điều này cho thấy các mô hình có xu hướng chuyển đổi câu nói thành phép toán mà không thực sự hiểu ý nghĩa", đại diện nhóm nghiên cứu cho biết. "Nó chứng minh giả thuyết LLM tìm kiếm và khớp mẫu để lập luận hơn là hiểu khái niệm".Nhóm nhấn mạnh thử nghiệm chỉ ra "điểm yếu nghiêm trọng trong khả năng thực sự hiểu khái niệm toán học và phân biệt thông tin liên quan cho việc giải quyết vấn đề" của LLM. Kết quả cho thấy các mô hình AI đã bắt đầu hình thành khả năng tự suy luận vấn đề, nhưng mức độ thấp và thực tế đang bị cường điệu hóa về nguy cơ của AI.Các bên chưa đưa ra bình luận sau kết quả nghiên cứu của Apple.
-Apple tạo mô hình AI 'đọc' độ sâu 3D từ ảnh 2D
-Apple có thể tính phí 20 USD cho tính năng AI
-Apple tham gia tuân thủ quy tắc AI an toàn
-Lối đi riêng của Apple trong kỷ nguyên AI tạo sinh
-Apple tạo mô hình AI 'đọc' độ sâu 3D từ ảnh 2D
-Apple có thể tính phí 20 USD cho tính năng AI
-Apple tham gia tuân thủ quy tắc AI an toàn
-Lối đi riêng của Apple trong kỷ nguyên AI tạo sinh
+So sánh tốc độ kết nối thực tế của 5G và 4G
+Đánh giá nhanh:
+- Mạng 5G cho tốc độ cao vượt trội, nhưng chưa ổn định trong giai đoạn đầu triển khai. Kết quả đo có thể chênh lệch ở những địa điểm cách nhau vài chục mét.
+- Tốc độ tải của 5G cao hơn nhiều tốc độ tối đa mạng 4G đạt được.
+- Ở những khu vực mạng 5G đạt tốc độ cao, kết nối 4G có xu hướng yếu hơn mức trung bình.
+- Tốc độ đường download cao hơn nhiều lần tốc độ upload.
+- Với các tác vụ như lướt web, mạng xã hội, 4G đủ nhanh và không khác biệt lớn với 5G. Chênh lệch thấy rõ khi tải những file dung lượng lớn, điện thoại sử dụng 5G có thể hoàn thành trong hơn 10 giây với ứng dụng hơn 1 GB.

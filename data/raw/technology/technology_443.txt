@@ -1,13 +1,22 @@
-Thêm hãng ôtô Trung Quốc đưa robot hình người vào nhà máy
-Zeekr, công ty thuộc sở hữu của tập đoàn ôtô Trung Quốc Geely, đã bắt đầu thử nghiệm Walker S Lite với hình dáng giống con người, có thể thực hiện nhiệm vụ cơ bản bên trong nhà máy. Video đăng trên Weibo cho thấy, robot di chuyển bằng hai chân, di chuyển các hộp xung quanh "nhà máy thông minh" ở Hàng Châu. Khi một nhân viên chào, robot đáp lại: "Tôi sẽ cố gắng hết sức".
-Được sản xuất bởi UBtech Robotics có trụ sở tại Thâm Quyến, Walker S Lite có thể mang các pallet hoặc hộp đựng linh kiện trọng lượng khoảng 15 kg lên băng chuyền. UBtech cho biết robot có thể làm việc liên tục trong 21 ngày, nhiệm vụ chủ yếu là "hỗ trợ nhân viên với các công việc hậu cần".Vào tháng 2, UBtech cũng đăng một video cho thấy phiên bản Walker S làm việc trên dây chuyền lắp ráp tại một nhà máy của hãng ôtô Nio với vai trò kiểm tra xe điện. Các công ty khác như Mercedes-Benz cũng bắt đầu thử nghiệm robot hình người Apollo cho các nhiệm vụ "đòi hỏi khắt khe và lặp đi lặp lại"; hay BMW sử dụng robot Figure 01 của Figure AI cho các hoạt động tương tự.Video từ nhà máy Zeekr được công bố một tháng sau khi Elon Musk tuyên bố Tesla sẽ bắt đầu sản xuất và sử dụng robot hình người Optimus từ năm 2025 cho nhà máy Tesla, sau đó thương mại hóa trong năm 2026. Tiến độ này chậm hơn khoảng một năm so với dự tính.Musk lần đầu công bố Optimus năm 2021 dưới hình dạng một người thật mặc đồ bó sát. Năm 2022, công ty ra mắt nguyên mẫu đầu tiên, có chiều cao 173 cm, nặng 57 kg. Những năm qua, robot hình người này đạt được một số bước tiến như gấp quần áo, tập yoga hay tự di chuyển trong nhà máy.Musk kỳ vọng Optimus là chất xúc tác để "nâng vốn hóa thị trường của Tesla lên 25 nghìn tỷ USD". Ông dự đoán cuối cùng robot sẽ đông hơn con người. Dù vậy, so với các công ty khác, Tesla đang tỏ ra chậm chân.
-Robot hình người đa năng cỡ lớn đầu tiên của Trung Quốc
-Robot hình người của Tesla gây thất vọng khi dự triển lãm Trung Quốc
-Robot hình người Figure lắp ráp ôtô cho BMW
-Elon Musk mô tả viễn cảnh sử dụng robot Optimus
-Elon Musk: 'Robot hình người sẽ biến Tesla thành công ty 25 nghìn tỷ USD'
-Robot hình người đa năng cỡ lớn đầu tiên của Trung Quốc
-Robot hình người của Tesla gây thất vọng khi dự triển lãm Trung Quốc
-Robot hình người Figure lắp ráp ôtô cho BMW
-Elon Musk mô tả viễn cảnh sử dụng robot Optimus
-Elon Musk: 'Robot hình người sẽ biến Tesla thành công ty 25 nghìn tỷ USD'
+Internet có thể thay đổi thế nào sau phán quyết Google độc quyền
+Ngày 5/8, thẩm phán tòa án quận Columbia Amit P. Mehta tuyên Google  độc quyền tìm kiếm . Alphabet, công ty mẹ của Google, cho biết sẽ kháng cáo, đồng thời khẳng định những gì đang làm "tập trung vào việc tạo ra những sản phẩm mọi người thấy hữu ích và dễ sử dụng".
+Nhưng nếu Google thất bại, giới chuyên gia cho rằng Internet có thể có biến đổi lớn.
+Google buộc "mở" công cụ tìm kiếm
+Một số chuyên gia dự đoán phán quyết sẽ buộc Alphabet phải tung ra một công cụ tìm kiếm chất lượng và mở hơn so với hiện tại. Nó không có quảng cáo hoặc được thiết kế riêng cho trẻ em, người "nghiện" tin tức hoặc người hâm mộ một lĩnh vực nào đó. Tất nhiên, nó có thể không còn miễn phí như hiện tại.
+Để làm điều đó, Google sẽ phải cho phép các công ty khác tiếp cận công nghệ tìm kiếm của mình hoặc dữ liệu cần thiết để tạo ra các công cụ tìm kiếm "chuyên biệt như Google nhưng không phải của Google".
+"Bạn có thể tưởng tượng một công ty lấy công thức bí mật của Google, sau đó điều chỉnh để tạo công cụ thân thiện hơn với trẻ em. Một công ty khác có thể ưu tiên kết quả search để bảo vệ quyền riêng tư của bạn, và nơi khác nữa hiển thị kết quả theo cách ưu tiên hình ảnh", Matt Stoller, Giám đốc nghiên cứu Dự án Tự do Kinh tế Mỹ và thường xuyên chỉ trích quyền lực Big Tech, nói với  Washington Post . "Chúng ta sẽ thấy có sự đổi mới dành cho nhân loại".
+Apple có thể tạo công cụ tìm kiếm riêng
+Apple thường tự phát triển sản phẩm thay vì phụ thuộc các công ty bên thứ ba, nhưng Google là ngoại lệ. Công cụ tìm kiếm này đã có mặt trên iPhone hơn một thập kỷ qua.
+Google trả cho Apple hàng chục tỷ USD mỗi năm, riêng 2022 được cho là  20 tỷ USD , để được cài đặt mặc định trên các thiết bị như iPhone, iPad. Thỏa thuận mang lại lợi ích cho đôi bên: Google độc quyền khai thác nguồn giá trị từ cơ sở người dùng thiết bị khổng lồ, còn Apple nhận một lượng tiền "khủng" mỗi năm.
+Megan Gray, chuyên gia về chống độc quyền của GrayMatters Law & Policy, cho rằng phán quyết mới sẽ thay đổi đáng kể hoặc thậm chí chấm dứt thỏa thuận giữa Google với Apple, cũng như các công ty khác đang hợp tác đưa công cụ tìm kiếm Google lên các nền tảng của họ.
+"Kịch bản có khả năng nhất là người dùng cần chọn một dịch vụ tìm kiếm trước khi sử dụng iPhone, iPad", theo Gray. "Nhưng cuối cùng, Apple sẽ tạo công cụ của riêng mình, như cách bắt đầu bằng Apple Maps để thay thế Google Maps".
+Giá quảng cáo trên Google giảm
+Theo các chuyên gia, về lý thuyết, nếu các công cụ thay thế Google trở nên phổ biến, việc cạnh tranh sẽ ngày một nhiều. Các dịch vụ sẽ chạy đua giảm giá để thu hút người dùng.
+Tuy vậy, nhiều khả năng người được lợi là doanh nghiệp. Trong khi đó, phía người dùng có thể phải "hứng chịu" nhiều thể loại, mô hình quảng cáo hơn xuất hiện trên các trang tìm kiếm trong tương lai.
+"Baby Googles"
+Một trong những yêu cầu của thẩm phán khi tuyên án Google độc quyền là có quá nhiều lĩnh vực thống trị và độc quyền. Do đó, một khả năng có thể xảy ra là Alphabet phải tách ra các công ty con, hay "Baby Googles".
+Với kịch bản này, trình duyệt Chrome, Google Search, Android và một số mảng khác có thể trở thành công ty riêng. Theo Stoller, các tập đoàn như Standard Oil và AT&T từng bị buộc phải chia tách trước đây, do đó "Baby Googles" thời gian tới không phải là không thể.
+Google không còn được phép biết quá nhiều về người dùng
+Jason Kint, đứng đầu nhóm vận động tin tức trực tuyến Digital Content Next, viết trên blog rằng nếu không tách thành các "Baby Googles", tòa án vẫn có thể buộc Alphabet không được phép kết hợp dữ liệu người dùng thu thập được cho toàn bộ dịch vụ đang có. Về cơ bản, đó sẽ là việc "ly hôn" giữa các sản phẩm của Google mà không cần chia tách thành các doanh nghiệp nhỏ hơn.
+Hiện tại, dữ liệu  Google  liên thông trên các nền tảng của hãng. Kint hình dung trong tương lai, những gì người dùng làm trên điện thoại Android hay trình duyệt Chrome sẽ không đổ vào một kho lưu trữ chung khổng lồ của Google. Khi có ít thông tin hơn, quyền riêng tư của người dùng cũng được đảm bảo hơn.
+"Thất bại của Google trong vụ kiện chống độc quyền trong lĩnh vực tìm kiếm có thể là một vấn đề lớn, tùy thuộc vào biện pháp khắc phục", nhà phân tích cấp cao Evelyn Mitchell-Wolf của Emarketer nói với  AP .

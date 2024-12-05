@@ -1,6 +1,11 @@
-Thử tài nhận biết ảnh đã thêm chi tiết bằng AI
-Ngày nay, một số công cụ AI xuất hiện trên smartphone cho phép người dùng thêm chi tiết vào ảnh. Chỉ cần một nét vẽ nguệch ngoạc, hoặc kết hợp với các mô tả là đã có thể cho ra bức ảnh cuối cùng như ý muốn.Tuy nhiên, AI cũng gây lo ngại khi có thể tạo thông tin giả, sai lệch hoặc sử dụng cho mục đích không chính đáng. Nghiêm trọng hơn, do liên tục được nâng cấp, chúng có thể sáng tác những bức ảnh chân thực đến mức khó nhận biết.Dưới đây là các bức ảnh thật hoặc được thêm chi tiết bằng AI, do PhoneArena thực hiện.
-Phân biệt ảnh chân dung do AI tạo với ảnh thật
-Thử tài phân biệt ảnh thật và ảnh AI
-Phân biệt ảnh chân dung do AI tạo với ảnh thật
-Thử tài phân biệt ảnh thật và ảnh AI
+Elon Musk tái khởi kiện Sam Altman và OpenAI
+Vụ kiện là nỗ lực mới nhất của Musk nhằm chống lại công ty ông đồng sáng lập vào năm 2015. Tỷ phú Mỹ cho rằng OpenAI và CEO Altman đặt lợi ích thương mại lên trên lợi ích cộng đồng.
+Theo Musk, ông bị Altman và Chủ tịch hiện tại của OpenAI Greg Brockman dụ dỗ và lừa dối để cùng tạo công ty với lời hứa "nó sẽ đi theo hướng an toàn và mở hơn so với các gã khổng lồ công nghệ theo đuổi lợi nhuận".
+Sau khi tham gia và đầu tư hàng triệu USD, Musk cảm thấy ông bị phản bội vì Altman và những người đồng sáng lập khác đã cùng với Microsoft thành lập một mạng lưới công ty con của  OpenAI  và hoạt động vì lợi nhuận.
+Đơn kiện yêu cầu tòa án liên bang tại Carlifornia xác định giấy phép của OpenAI cho Microsoft sử dụng mô hình AI của công ty là không hợp lệ. Musk cho rằng các mô hình ngôn ngữ lớn của OpenAI cần nằm ngoài phạm vi của mối quan hệ đối tác với Microsoft.
+Các cáo buộc trên tương tự nội dung  đơn kiện  từng được Musk nộp cuối tháng 2 nhưng sau đó ông chủ Tesla và SpaceX đã  rút lại .
+Elon Musk  nhiều lần bày tỏ mối lo ngại sâu sắc của mình về trí tuệ nhân tạo và nguy cơ nó gây ra cho nhân loại. Trong đơn kiện mới nhất, ông nói " Altman  nói với tôi sẽ đảm bảo cấu trúc phi lợi nhuận giúp tạo sự trung lập, tập trung vào an toàn và tính mở vì lợi ích của nhân loại, không phải giá trị cổ đông. Nhưng hóa ra, đây chỉ là từ thiện suông".
+Đơn kiện cũng cáo buộc  Microsoft  tham gia vào việc này khi tìm cách thu lợi, dụ dỗ OpenAI sử dụng rồi trở nên phụ thuộc không thể tách rời vào hệ thống điện toán đám mây của hãng.
+Microsoft là nhà đầu tư lớn nhất vào OpenAI với số tiền được cho là 13 tỷ USD. Trong những năm qua, hãng từng bước cũng cố vị thế của mình tại công ty đứng sau ChatGPT.
+OpenAI, Microsoft và Sam Altman chưa bình luận về đơn kiện.
+Huy Đức

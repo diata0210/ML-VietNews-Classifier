@@ -79,7 +79,16 @@ def crawl_and_save_articles(url, category, start_index, seen_titles):
             content = article_soup.find('article')
             if content:
                 # Lấy nội dung và loại bỏ các khoảng trắng dư thừa
-                text = content.get_text().strip()
+                # text = content.get_text().strip()
+
+                # Lấy tất cả các thẻ <p> trong nội dung
+                p_tags = content.find_all('p')
+
+                # Lấy nội dung của từng thẻ <p> và lưu vào danh sách
+                paragraphs = [p.get_text(separator=' ').strip() for p in p_tags]
+
+                # Ghép các đoạn văn với dấu xuống dòng giữa các thẻ <p>
+                text = '\n'.join(paragraphs)
 
                 # Kiểm tra xem nội dung có rỗng hay không
                 if text:
@@ -120,4 +129,4 @@ def main(category, base_url, start_page, end_page):
             break
 
 # Ví dụ gọi hàm main cho thể loại 'technology', từ trang 6 đến trang 36
-main("education", "https://dantri.com.vn/giao-duc", 2, 30)
+main("technology", "https://dantri.com.vn/suc-manh-so", 3, 30)

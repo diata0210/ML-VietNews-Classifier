@@ -1,13 +1,9 @@
-Trung Quốc có 1,67 triệu công ty AI
-Con số trên được nền tảng cơ sở dữ liệu doanh nghiệp Qichacha công bố ngày 6/8. Trong đó, hơn 1,48 triệu, tức gần 90%, được thành lập sau năm 2017, khi Quốc vụ viện, cơ quan hành chính của Trung Quốc, đưa ra Kế hoạch Phát triển Trí tuệ nhân tạo Thế hệ mới với mục tiêu đưa đất nước tiên phong toàn cầu trong lĩnh vực này.
-Các công ty liên quan đến AI chủ yếu tham gia phát triển chatbot và một số mô hình ngôn ngữ lớn (LLM) sơ khai. Số đăng ký mới đạt kỷ lục hơn 467.000 vào năm ngoái, sau khi OpenAI phát hành ChatGPT cuối 2022.Theo SCMP, hiện Trung Quốc có bốn "hổ AI" với khả năng cạnh tranh ở mức toàn cầu là Baichuan, Zhipu AI, Moonshot AI và MiniMax, mỗi công ty đã huy động hàng tỷ USD từ các nhà đầu tư tiềm năng. Baidu, Alibaba, ByteDance và nhiều doanh nghiệp lớn khác cũng đang phát triển mô hình AI được đánh giá có chất lượng cao.Tuy nhiên, sự cạnh tranh khốc liệt cũng khiến một số rơi rụng. Chẳng hạn năm ngoái, gần 50.000 doanh nghiệp liên quan đến trí tuệ nhân tạo phải ngừng hoạt động, chủ yếu do thiếu kinh phí.AI là một trong những lĩnh vực được Trung Quốc ưu tiên trong chiến lược tự chủ công nghệ. Kế hoạch Phát triển Trí tuệ nhân tạo Thế hệ mới đặt mục tiêu đạt "trình độ dẫn đầu thế giới" vào 2025 và trở thành "trung tâm đổi mới AI lớn của thế giới" vào 2030, ưu tiên biến AI thành động lực chính cho việc nâng cấp công nghiệp và chuyển đổi kinh tế.Trước đó, số liệu từ Tổ chức Sở hữu Trí tuệ Thế giới WIPO công bố tháng 7 cho thấy, trong thập kỷ qua, trên toàn thế giới có hơn 50.000 đơn xin cấp bằng sáng chế về công nghệ AI tạo sinh, như khả năng tạo văn bản, hình ảnh, mã máy tính, âm nhạc. Trung Quốc là quốc gia dẫn đầu với hơn 38.000 hồ sơ về AI tạo sinh giai đoạn từ 2014 đến 2023, gấp sáu lần so với 6.276 phát minh được Mỹ nộp cùng kỳ.
-Nhóm sinh viên Stanford bị nghi đạo nhái AI Trung Quốc
-Khác biệt giữa AI Trung Quốc và phương Tây
-Chip AI Trung Quốc đạt 45 tỷ phép tính mỗi giây
-Kỹ sư AI được trả lương cao nhất Trung Quốc
-Trung Quốc dẫn đầu thế giới về hồ sơ bằng sáng chế AI tạo sinh
-Nhóm sinh viên Stanford bị nghi đạo nhái AI Trung Quốc
-Khác biệt giữa AI Trung Quốc và phương Tây
-Chip AI Trung Quốc đạt 45 tỷ phép tính mỗi giây
-Kỹ sư AI được trả lương cao nhất Trung Quốc
-Trung Quốc dẫn đầu thế giới về hồ sơ bằng sáng chế AI tạo sinh
+AI Gemini của Google có thể 'đọc' nội dung camera an ninh
+Ngày 8/8,  Google  công bố chiến lược mới với hệ sinh thái nhà thông minh khi đưa AI vào trợ lý ảo Google Assistant và "Gemini hóa" nền tảng Google Home.
+Gemini  được tích hợp để phân tích dữ liệu ghi hình của camera an ninh (ban đầu chỉ hoạt động với Goolge Nest) nhằm thực hiện các lệnh tìm kiếm chi tiết hơn. Hệ thống sẽ chuyển từ "hiểu" thông tin cơ bản như chuyển động, con người, gói hàng sang nhận biết một chuỗi chuyển động hoặc sự kết hợp chuyển động, vật thể theo tình huống.
+Trong ví dụ về tính năng mới, Gemini không chỉ nhận biết video có chuyển động con vật mà có thể nhận diện "một chú chó nghịch trong vườn". Từ đó, câu lệnh tìm kiếm của người dùng đưa vào có thể cho ra kết quả chính xác đoạn video ở thời điểm cụ thể. Một ví dụ khác khi chủ nhân Google Nest camera hỏi Gemini "bọn trẻ có để xe đạp ở lối vào hay không" thay vì phải quan sát và tìm kiếm tất cả camera.
+Theo hãng, Google Home tích hợp AI sẽ "không có giới hạn cho những gì bạn có thể hỏi và thay đổi cách bạn nhận được sự trợ giúp tại nhà".
+Trang bị Gemini cũng giúp người dùng loại bỏ sự phức tạp trong việc tạo ra các ngữ cảnh tự động hóa trong nhà thông minh. Tính năng  Help me create  cho phép chủ nhân mô tả mong muốn bằng ngôn ngữ đơn giản sau đó Gemini sẽ thiết lập cụ thể. Ví dụ, người dùng chỉ cần nói "khóa cửa và tắt tất cả đèn khi đi ngủ", Gemini lập tức tạo chuỗi tự động hóa ứng với từng thiết bị thông minh.
+Trợ lý ảo Google Assistant sẽ có kiểu giọng đọc mới, sử dụng ngôn ngữ tự nhiên hơn và có sẵn trên loa thông minh và màn hình Nest. Hãng tìm kiếm lớn nhất thế giới nói đây là nâng cấp đem đến cho trợ lý ảo tính "con người" hơn khi người dùng có thể trò chuyện, đặt câu hỏi liền mạch và cá nhân hóa.
+Google sẽ bắt đầu cho người dùng thử nghiệm tính năng mới vào cuối năm nay. Số lượng được phép dùng thử sẽ giới hạn và cần đăng ký trước.
+Hoài Anh

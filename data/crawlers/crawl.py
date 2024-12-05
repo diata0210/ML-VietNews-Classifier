@@ -18,7 +18,7 @@ def crawl_and_save_articles(url, category, start_index, seen_titles):
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # Tìm tất cả các bài viết dựa trên cấu trúc mới
-    articles = soup.find_all('h3', {'class': 'title-news'})
+    articles = soup.find_all('h2', {'class': 'title-news'})
 
     # Kiểm tra xem có bài viết nào không
     if not articles:
@@ -72,7 +72,15 @@ def crawl_and_save_articles(url, category, start_index, seen_titles):
             content = article_soup.find('article')
             if content:
                 # Lấy nội dung và loại bỏ các khoảng trắng dư thừa
-                text = content.get_text().strip()
+                #text = content.get_text().strip()
+                # Lấy tất cả các thẻ <p> trong nội dung
+                p_tags = content.find_all('p')
+
+                # Lấy nội dung của từng thẻ <p> và lưu vào danh sách
+                paragraphs = [p.get_text(separator=' ').strip() for p in p_tags]
+
+                # Ghép các đoạn văn với dấu xuống dòng giữa các thẻ <p>
+                text = '\n'.join(paragraphs)
 
                 # Kiểm tra xem nội dung có rỗng hay không
                 if text:
@@ -114,4 +122,4 @@ def main(category, base_url, start_page, end_page):
 
 # Ví dụ gọi hàm main cho thể loại 'technology', từ trang 6 đến trang 36
 
-main("education", "https://vnexpress.net/giao-duc", 2, 20)
+main("technology", "https://vnexpress.net/so-hoa/cong-nghe", 2, 20)
