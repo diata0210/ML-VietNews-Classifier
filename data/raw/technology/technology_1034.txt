@@ -1,2 +1,22 @@
-Thay đổi đáng chờ đợi trên iPhone 16 Pro Max
-(Dân trí) - Nguồn tin từ nhà phân tích Ming-Chi Kuo cho biết iPhone 16 Pro Max sẽ sử dụng viên pin có mật độ năng lượng cao hơn.Điều này sẽ cung cấp thời lượng sử dụng pin dài hơn trong khi không làm thay đổi kích thước tổng thể cũng như trọng lượng của thiết bị.Apple sẽ sử dụng vỏ pin bằng thép không gỉ để làm giải pháp tản nhiệt. Thay đổi này lần đầu được Apple áp dụng nhằm tránh ảnh hưởng đến hiệu suất và độ bền của sản phẩm."So với nhôm, thép không gỉ cho hiệu quả tản nhiệt thấp hơn, nhưng có độ bền tốt hơn và ít bị hao mòn. Việc sử dụng vỏ pin bằng thép không gỉ cũng giúp giảm bớt khó khăn khi tháo lắp pin", Kuo chia sẻ.Sunway được cho là nhà cung cấp chính vỏ pin bằng thép không gỉ. Nếu quá trình sản xuất hàng loạt thiết kế pin mới diễn ra suôn sẻ, Kuo tin rằng thiết kế này sẽ được áp dụng trên tất cả các mẫu iPhone 17.Trước đó, trang PhoneArena đã tiết lộ một số thông tin chi tiết về dung lượng pin trên dòng sản phẩm iPhone 16. Cụ thể, iPhone 16 sẽ có viên pin dung lượng 3.561mAh, tăng 5,8% so với iPhone 15.Bộ đôi iPhone 16 Pro và iPhone 16 Pro Max dự kiến sẽ tích hợp viên pin dung lượng 3.355mAh (tăng 2%) và 4.676mAh (tăng 5,7%). Trong khi đó, viên pin trên iPhone 16 Plus sẽ chỉ có dung lượng 4.006mAh, giảm 8,6% so với phiên bản tiền nhiệm.Theo MacRumors
+Cách kiểm tra tài khoản Facebook, Zalo có bị xâm nhập trái phép
+Facebook và Zalo là hai nền tảng  mạng xã hội  phổ biến nhất tại Việt Nam. Cả hai đều tích hợp tính năng nhắn tin, do đó, nếu tài khoản của bạn bị xâm nhập trái phép, kẻ xấu có thể đọc được các nội dung tin nhắn, gây ảnh hưởng đến sự riêng tư và rò rỉ thông tin quan trọng.
+Dưới đây là hướng dẫn kiểm tra tài khoản Facebook và Zalo của bạn có bị xâm nhập trái phép hay không.
+Đối với người dùng Facebook trên máy tính:
+Nếu đang sử dụng và đăng nhập Facebook trên máy tính, bạn có thể thực hiện các bước sau:
+- Truy cập và đăng nhập vào tài khoản Facebook trên trình duyệt web. Bấm vào hình ảnh đại diện ở góc trên bên phải, chọn "Cài đặt và Quyền riêng tư", sau đó nhấn "Cài đặt".
+- Nhấn vào "Trung tâm tài khoản" ở bên trái, chọn "Mật khẩu và Bảo mật".
+- Chọn "Nơi bạn đăng nhập" trong mục "Kiểm tra bảo mật", sau đó chọn tài khoản Facebook hoặc Instagram.
+- Danh sách các thiết bị và vị trí đăng nhập gần đây sẽ được liệt kê. Nếu có thiết bị lạ, bạn có thể đăng xuất và thay đổi mật khẩu.
+Đối với người dùng Facebook trên smartphone:
+Nếu đang sử dụng Facebook trên smartphone, bạn có thể thực hiện các bước sau:
+- Từ giao diện ứng dụng, nhấn vào hình ảnh đại diện, chọn "Cài đặt & Quyền riêng tư", sau đó chọn "Cài đặt". Chọn "Xem thêm trong trung tâm tài khoản".
+- Nhấn chọn "Mật khẩu và bảo mật", sau đó chọn "Nơi bạn đăng nhập".
+- Danh sách các thiết bị và vị trí đăng nhập gần đây sẽ được hiển thị. Bạn có thể đăng xuất thiết bị lạ và thay đổi mật khẩu.
+Lưu ý: Địa điểm đăng nhập có thể không chính xác, do đó bạn chỉ nên quan tâm đến loại thiết bị đã đăng nhập.
+Để kiểm tra tài khoản Zalo có bị xâm nhập trái phép hay không, bạn có thể thực hiện các bước sau:
+Lưu ý: Cách thức này chỉ thực hiện được trên ứng dụng Zalo trên smartphone.
+- Kích hoạt ứng dụng Zalo trên smartphone. Nhấn vào "Cá nhân", sau đó chọn "Tài khoản và bảo mật".
+- Chọn "Thiết bị đã đăng nhập".
+- Danh sách các thiết bị đăng nhập tài khoản Zalo sẽ hiển thị. Nếu có thiết bị lạ, bạn có thể đăng xuất.
+- Kiểm tra "Thiết bị khác đang đăng nhập" và "Các thiết bị đã đăng xuất gần đây". Nếu có thiết bị lạ, tài khoản Zalo của bạn có thể đã bị xâm nhập trái phép.
+Với hướng dẫn trên, bạn có thể kiểm tra tài khoản Facebook và Zalo của mình có bị xâm nhập và đọc trộm tin nhắn hay không, từ đó có giải pháp xử lý phù hợp như thay đổi mật khẩu và xóa các tin nhắn quan trọng.

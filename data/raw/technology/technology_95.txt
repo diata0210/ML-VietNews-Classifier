@@ -1,10 +1,9 @@
-Con người sẽ nhàn hạ như thế nào nhờ robot
-Robot quản gia sẽ làm gì cho con người?
-Robot hình người Atlas hoạt động tự động hoàn toàn
-Elon Musk: 'Sẽ có 10 tỷ robot hình người vào năm 2040'
-Chó robot chạy dưới nước
-Robot thất nghiệp
-Robot hình người Atlas hoạt động tự động hoàn toàn
-Elon Musk: 'Sẽ có 10 tỷ robot hình người vào năm 2040'
-Chó robot chạy dưới nước
-Robot thất nghiệp
+Xác thực hai lớp bị qua mặt, chuyên gia khuyên mở thêm tài khoản Gmail
+Forbes  dẫn lời Davey Winder, hacker và nhà phân tích an ninh mạng kỳ cựu, rằng các cuộc tấn công mạng ngày càng phức tạp và Gmail là một trong những mục tiêu hàng đầu của tin tặc. Với 2,5 tỷ người dùng, Google đã triển khai nhiều biện pháp tiên tiến để bảo vệ tài khoản Gmail khỏi các cuộc tấn công. Tuy nhiên, những báo cáo gần đây cho thấy tin tặc đã vượt qua xác thực hai yếu tố (2FA).
+Ví dụ hồi tháng 4, nhiều người cho biết  không thể truy cập  tài khoản Gmail và YouTube dù đã bật xác thực hai yếu tố 2FA, sau khi tham gia chương trình tặng tiền số Ripple (XRP). "Ai đó đã thay đổi thông tin 2FA của tôi, không thể khôi phục tài khoản. Nó thực sự quan trọng vì Gmail lưu trữ nhiều nội dung tôi rất cần", người dùng Daniel Salinas viết trên trang hỗ trợ của Google ngày 10/4.
+Theo Winder, một biện pháp đơn giản để bảo vệ nội dung email của người dùng là mở thêm tài khoản Gmail. Điều này không ngăn chặn nhưng có thể giảm thiểu tác động của các cuộc tấn công. Trong trường hợp tài khoản chính bị hack, tài khoản phụ vẫn lưu trữ bản sao các email quan trọng. Khi đó, hacker sẽ phải tấn công cả hai hòm thư và việc này khó hơn nhiều.
+Để tài khoản Gmail thứ hai an toàn hơn, người dùng nên cài đặt email với khóa bảo mật hoặc ứng dụng tạo mã 2FA, thay vì SMS như tài khoản gốc. Họ cũng cần thiết lập quy tắc chuyển tiếp email từ tài khoản chính sang phụ để có bản sao lưu.
+Bên cạnh đó,  Google  cũng cung cấp Chương trình Bảo vệ Nâng cao (Advanced Protection Program - APP), tăng cường lớp bảo mật cho Gmail. Chương trình ra mắt năm 2017, ban đầu nhằm đối phó với các phương thức tấn công mạng tinh vi nhắm vào những người dùng có nguy cơ cao như chính trị gia, nhà báo.
+Người dùng có thể mua khóa bảo mật phần cứng với tính an toàn cao nhất hoặc sử dụng Passkey miễn phí để tham gia APP. Sau khi truy cập trang APP, người dùng xác minh danh tính bằng khóa bảo mật và thêm số điện thoại khôi phục đáng tin cậy. Khi đăng nhập lần đầu trên bất kỳ thiết bị nào, họ phải nhập khóa bảo mật.
+APP cũng kiểm tra các lượt tải xuống, nếu thấy người dùng tải tệp có khả năng gây hại, hệ thống sẽ thông báo hoặc chặn. Người đang sử dụng thiết bị Android chỉ được phép tải từ các cửa hàng ứng dụng đã xác minh. Nếu bất kỳ ai cố gắng khôi phục tài khoản, APP sẽ khóa và thực hiện xác minh danh tính. Điều này có thể khiến người dùng mất vài ngày chờ xác minh thông tin và lấy lại quyền truy cập, nhưng giúp tài khoản an toàn hơn.
+Huy Đức

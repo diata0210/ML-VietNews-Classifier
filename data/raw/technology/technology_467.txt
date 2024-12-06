@@ -1,13 +1,28 @@
-Intel sa thải 17.500 nhân viên
-Intel hiện có 116.500 nhân viên trên toàn cầu tính đến ngày 29/6, không kể một số công ty con. Việc cắt giảm nhân sự dự kiến hoàn thành phần lớn công đoạn vào cuối năm. Trả lời The Verge, Intel nói con số cắt giảm "cao hơn mức 15.000". Reuters ước tính 15% tương đương 17.500 người, trong khi The Verge cho rằng số nhân viên phải nghỉ việc có thể lên đến 19.000 người.Trong công bố cuối ngày 1/8, Intel cho biết bên cạnh việc giảm nhân sự, công ty cũng đình chỉ trả cổ tức bắt đầu từ quý IV của năm tài khóa 2024 để tập trung cho các mảng kinh doanh sản xuất đang thua lỗ. Hãng chip Mỹ dự báo doanh thu quý III/2024 thấp hơn ước tính, do nhu cầu thị trường dành cho chip trung tâm dữ liệu truyền thống đang có xu hướng giảm trước cơn sốt chip AI - lĩnh vực công ty đang tụt hậu so với các đối thủ.
-Cổ phiếu của Intel sụt giảm 20% sau thông báo trên, thổi bay hơn 24 tỷ USD vốn hóa. Trong khi đó, cổ phiếu các công ty chip AI như Nvidia, AMD đều tăng."Chúng tôi cần ít người hơn ở trụ sở chính, nhiều người hơn ngoài thị trường để hỗ trợ khách hàng", CEO Intel Pat Gelsinger nói với Reuters sau thông báo cắt giảm việc làm.Intel đang "ở giữa" kế hoạch tái cấu trúc, tập trung vào phát triển bộ vi xử lý AI. Công ty cũng đẩy mạnh sản xuất bán dẫn nhằm lấy lại lợi thế công nghệ đã mất trước TSMC - nhà sản xuất chip hợp đồng lớn nhất thế giới. Tuy vậy, chiến lược đẩy mạnh xây dựng nhà máy sản xuất khiến chi phí tăng, gây áp lực lên lợi nhuận.Trong thông báo ngày 1/8, Intel dự tính giảm chi tiêu và chi phí hoạt động khoảng 10 tỷ USD từ nay đến 2025. "Kế hoạch này cho thấy ban lãnh đạo Intel sẵn sàng áp dụng biện pháp mạnh mẽ và quyết liệt để giải quyết vấn đề. Nhưng tôi tự hỏi, liệu đó có đủ không và phản ứng có muộn không, khi mà Gelsinger đã nắm quyền hơn ba năm" Michael Schulman, Giám đốc phụ trách đầu tư của Running Point Capital, nói.Các nhà phân tích khác đánh giá kế hoạch tái cấu trúc kinh doanh của Intel sẽ mất nhiều năm. Công ty cũng chưa đủ khả năng để làm lung lay vị thế dẫn đầu của TSMC. Ngoài ra, việc Mỹ thu hồi giấy phép xuất khẩu vào Trung Quốc hồi tháng 5 cũng ảnh hưởng đến kinh doanh của Intel ở thị trường đông dân nhất thế giới.
-Intel sắp cắt giảm hàng nghìn nhân viên
-Intel mất dần thị phần chip máy tính vào tay AMD
-Intel thừa nhận chip Core thế hệ 13 và 14 gặp lỗi
-Đoàn xe chở máy tạo chip của Intel 'chiếm đường' trong 9 ngày
-Mảng sản xuất chip của Intel lỗ 7 tỷ USD
-Intel sắp cắt giảm hàng nghìn nhân viên
-Intel mất dần thị phần chip máy tính vào tay AMD
-Intel thừa nhận chip Core thế hệ 13 và 14 gặp lỗi
-Đoàn xe chở máy tạo chip của Intel 'chiếm đường' trong 9 ngày
-Mảng sản xuất chip của Intel lỗ 7 tỷ USD
+Điểm tuần: Luật Dữ liệu được thông qua, thúc đẩy chuyển đổi số Quốc gia
+Quốc hội thông qua Luật Dữ liệu
+Chiều 30/11, với 451/458 đại biểu có mặt tán thành, Quốc hội đã thông qua Luật Dữ liệu. Luật có hiệu lực từ ngày 1/7/2025, trong đó quy định về việc lập cơ sở dữ liệu tổng hợp quốc gia.
+Chủ nhiệm Ủy ban Quốc phòng và An ninh của Quốc hội Lê Tấn Tới cho biết, dữ liệu tại cơ sở dữ liệu tổng hợp quốc gia là nguồn tài nguyên dùng chung cho các cơ quan, tổ chức, cá nhân khai thác, sử dụng.
+Các thông tin được lưu trữ trong cơ sở dữ liệu tổng hợp quốc gia được chia sẻ phục vụ việc khai thác chung cho các Bộ, ngành, địa phương. Cơ quan quản lý dữ liệu không phải thiết lập thêm các kênh kết nối, chia sẻ riêng đối với các thông tin đã được cập nhật, đồng bộ, lưu trữ trong cơ sở dữ liệu tổng hợp quốc gia.
+Bên cạnh đó, Luật Dữ liệu còn quy định về việc chuyển, xử lý dữ liệu xuyên biên giới. Cơ quan, tổ chức, cá nhân được tự do chuyển dữ liệu từ nước ngoài về Việt Nam, xử lý dữ liệu của nước ngoài tại Việt Nam, được Nhà nước bảo vệ các quyền và lợi ích hợp pháp theo quy định của pháp luật.
+Việc chuyển dữ liệu cốt lõi, dữ liệu quan trọng bao gồm chuyển dữ liệu đang lưu trữ tại Việt Nam tới hệ thống lưu trữ dữ liệu đặt ngoài lãnh thổ Việt Nam.
+Cơ quan, tổ chức, cá nhân Việt Nam chuyển dữ liệu cho tổ chức, cá nhân nước ngoài tại Việt Nam. Cơ quan, tổ chức, cá nhân Việt Nam sử dụng nền tảng xử lý ở ngoài lãnh thổ Việt Nam để xử lý dữ liệu.
+Định danh người dùng trên  mạng xã hội
+Chia sẻ tại hội nghị đánh giá hoạt động lĩnh vực thông tin điện tử năm 2024, định hướng năm 2025, ông Lê Quang Tự Do, Cục trưởng Phát thanh truyền hình và Thông tin điện tử, cho biết các nền tảng mạng xã hội xuyên biên giới vẫn chưa kiểm soát nội dung  quảng cáo  theo quy định pháp luật Việt Nam.
+Những nền tảng này liên tục thay đổi thuật toán, hình thức phân phối dẫn đến khó khăn trong việc phát hiện vi phạm. Cùng với đó, các nhóm vi phạm thường xuyên lợi dụng công nghệ để lẩn trốn, dùng tài khoản ẩn danh, che giấu thông tin.
+Dưới góc độ cơ quan quản lý, đại diện Bộ TT&TT cho biết Nghị định 147/2024/NĐ-CP quy định về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng được Chính phủ ban hành ngày 9/11 hứa hẹn sẽ mang lại nhiều thay đổi tích cực.
+Trong đó, bao gồm cả thói quen người dùng mạng xã hội trong nước, khi giờ đây, người dùng phải xác thực tài khoản bằng số điện thoại theo quy định của Nghị định 147.
+Giá iPhone 16 Pro Max tiếp tục giảm
+Đầu tháng 11, các đại lý ủy quyền của Apple tại thị trường Việt Nam đã lần đầu tiên điều chỉnh giá bán đối với mẫu iPhone 16 Pro Max. Đến nay, dòng sản phẩm này tiếp tục giảm giá.
+Cụ thể, iPhone 16 Pro Max đang được các đại lý chào bán với mức giá 34 triệu đồng cho phiên bản 256GB. Mức giá này thấp hơn 500.000 đồng so với tuần trước và thấp hơn 1 triệu đồng so với giá bán niêm yết.
+Cũng theo chia sẻ từ các đại lý, iPhone 16 Pro Max hiện là mẫu máy có doanh số bán ra cao nhất trong thế hệ iPhone 16, đồng thời đóng góp phần lớn vào doanh thu toàn ngành hàng iPhone.
+Galaxy S25 Ultra lộ ảnh thực tế
+Những hình ảnh rò rỉ cho thấy Galaxy S25 Ultra vẫn sở hữu màn hình phẳng và khung viền vuông vức tương tự phiên bản tiền nhiệm. Cạnh dưới của máy chứa cổng kết nối, loa ngoài và khe cắm cây bút S Pen.
+Các góc của thiết bị đã được bo tròn, không còn thiết kế vuông vức hoàn toàn như trước đó. Đây được xem là chi tiết khác biệt duy nhất về mặt thiết kế giữa Galaxy S25 Ultra và Galaxy S24 Ultra.
+Một hình ảnh khác được  Android Authority  chia sẻ cho thấy Galaxy S25 Ultra sẽ sử dụng chip Snapdragon 8 Elite. Con chip này có 2 lõi hiệu suất siêu cao với xung nhịp tối đa 4,47GHz và 6 lõi hiệu suất cao xung nhịp 3,53GHz.
+Ổ cứng SSD siêu nhỏ gọn
+Go Portable SSD with Hub được thiết kế dành riêng cho các nhà sáng tạo nội dung, đặc biệt là những chuyên gia làm phim. Thiết bị có kích thước nhỏ gọn, cùng dung lượng lưu trữ tối đa lên đến 2TB.
+Sản phẩm tích hợp một hub đa năng với bốn cổng USB-C, đi kèm bộ chuyển đổi và các phụ kiện hỗ trợ mở rộng khả năng kết nối. Thiết bị hỗ trợ chuẩn USB 3.2 Gen 2 với tốc độ truyền tải lên đến 1.050MB/giây khi đọc và 1.000MB/giây khi ghi.
+Xiaomi tự phát triển chip cho  điện thoại
+Nguồn tin từ  Bloomberg  cho biết Xiaomi đang lên kế hoạch phát triển chip di động của riêng mình vào năm 2025. Con chip này sẽ được trang bị trên các sản phẩm của hãng trong cùng năm đó.
+Theo  9to5Google , động thái tự phát triển chip di động trên điện thoại thông minh của Xiaomi cho thấy gã khổng lồ công nghệ Trung Quốc đang nỗ lực giảm sự phụ thuộc vào các đối tác cung ứng như Qualcomm và MediaTek.
+Bên cạnh đó, bộ xử lý này cũng sẽ giúp Xiaomi trở nên nổi bật hơn khi thị trường điện thoại thông minh đang ngày càng cạnh tranh khốc liệt. Đồng thời, nỗ lực trên cũng sẽ mang đến nhiều lợi ích cho mục tiêu của hãng trong lĩnh vực xe điện.
