@@ -1,0 +1,14 @@
+Tội phạm bị tóm vì tra Google 'làm sao biết có đang bị FBI điều tra'
+Ngày 17/10, Văn phòng công tố quận Columbia ra thông cáo Eric Council Jr., 25 tuổi, cư dân Alabama vừa bị FBI bắt vì cáo buộc hack tài khoản mạng xã hội của Ủy ban Chứng khoán và Giao dịch (SEC) trên mạng xã hội X, nhằm mục đích kiếm lời từ Bitcoin.
+FBI chưa tiết lộ bằng chứng chính xác dẫn đến việc họ tìm đến nhà anh ta, nhưng các nhà điều tra đã nghi ngờ Eric khi anh ta tra cứu Google trên máy tính cá nhân các cụm từ bao gồm "SEC hack"; "làm sao tôi biết chắc mình có đang bị FBI điều tra không?" và "dấu hiệu nào cho thấy bạn đang bị cơ quan thực thi pháp luật hoặc FBI điều tra ngay cả khi họ chưa liên lạc với bạn", theo Văn phòng công tố.
+Theo hồ sơ, hôm 9/1/2024, tài khoản X chính thức của SEC đã đăng dòng tweet: "Hôm nay, SEC chấp thuận cho #Bitcoin ETF niêm yết trên tất cả các sàn giao dịch chứng khoán quốc gia đã đăng ký".
+Theo nội dung Tweet, đây được coi là phán quyết mang tính bước ngoặt về việc tiền điện tử có thể đóng vai trò là quỹ giao dịch trên sàn (ETF) hay không. Vấn đề đã được dự đoán trong nhiều tháng và kết quả của phán quyết này có thể sẽ làm tăng hoặc làm giảm nhiều phần giá trị của Bitcoin.
+Ngay sau dòng tweet, giá trị tài sản ròng của mỗi đồng Bitocin đã tăng khoảng 1.000 USD. Nhưng có một vấn đề: SEC không hề tweet dòng đó. Và hacker trẻ tuổi, đang bị cáo buộc là người tạo ra mớ hỗn độn này.
+Văn phòng công tố quận Columbia cáo buộc, Eric truy cập trái phép vào tài khoản của SEC trên X bằng cách sử dụng danh tính bị đánh cắp của một quản trị viên của SEC, để chiếm đoạt số điện thoại di động của cán bộ này.
+Những kẻ đồng phạm của Eric sau đó đã sử dụng quyền truy cập trái phép này vào tài khoản X để đăng dòng tweet giả mạo.
+Theo FBI, đây là một vụ tấn công hoán đổi SIM- quá trình gian lận khiến nhà mạng gán lại số điện thoại di động từ thẻ SIM của thuê bao hoặc người dùng hợp pháp sang thẻ SIM và điện thoại do tội phạm kiểm soát.
+Tấn công hoán đổi SIM cho phép tội phạm đánh bại xác thực đa yếu tố (MFA) và/hoặc quy trình xác minh hai bước để truy cập vào tài khoản của nạn nhân để tội phạm có thể đánh cắp tiền và/hoặc dữ liệu từ nạn nhân hoặc truy cập vào tài khoản trực tuyến của nạn nhân.
+Eric cũng bị cáo buộc đã nhận được khoản thanh toán bằng Bitcoin để thực hiện hoán đổi SIM thành công.
+Anh ta đang bị tạm giam với cáo buộc  Âm mưu thực hiện hành vi trộm cắp danh tính nghiêm trọng  và  Gian lận thiết bị truy cập.
+Sau khi SEC lấy lại quyền kiểm soát tài khoản X và thông báo cho công chúng về vụ vi phạm, giá trị của Bitcoin đã lập tức giảm hơn 2.000 USD mỗi đồng.
+Ngay sau hôm bị hack, SEC đã thực sự chấp thuận thay đổi quy định và  cho phép thành lập quỹ ETF  bitcoin tại Mỹ, mở ra cánh cửa tiếp cận tiền điện tử cho nhiều nhà đầu tư mới.
