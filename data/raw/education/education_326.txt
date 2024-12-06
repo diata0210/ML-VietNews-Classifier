@@ -1,0 +1,16 @@
+Sinh viên sáng tạo ứng dụng đọc đơn thuốc giành giải cuộc thi công nghệ
+Trong cuộc thi về công nghệ dành cho sinh viên trên địa bàn TPHCM, nhóm nghiên cứu đến từ Trường ĐH Khoa học Tự nhiên (ĐH Quốc gia TPHCM) đã sớm gây ấn tượng với  Megconize  - một ứng dụng được dùng như một "y tá cá nhân".
+Đạt giải nhì trong cuộc thi, Bùi Văn Hưng (22 tuổi, thành viên của nhóm nghiên cứu) bộc bạch rằng, Hưng và người thân trong gia đình nhiều lần quên uống thuốc hoặc uống không đúng giờ. Điều này khiến cho sức khỏe không được hồi phục một cách tốt nhất.
+Nhận thấy được vấn đề, Hưng cùng các cộng sự đã ấp ủ thực hiện một dự án có thể giúp người bệnh dễ dàng theo dõi các đơn thuốc, nhắc nhở họ uống đúng giờ.
+"Người dùng chỉ cần chụp hoặc tải hình ảnh đơn thuốc lên ứng dụng, hệ thống sẽ tự động xử lý và nhập liệu vào ứng dụng những thông tin như các chẩn đoán, ngày kê đơn, tên thuốc, liều lượng và cách dùng của từng loại thuốc", Hưng nói.
+Nguyễn Nhật Cường (22 tuổi, thành viên) cho biết, trong khoảng 3 giây, hệ thống sẽ trích xuất thông tin từ đơn thuốc và tạo một lịch uống thuốc riêng cho người dùng. Khi đến giờ, ứng dụng sẽ thông báo trên điện thoại để nhắc nhở uống thuốc.
+Để tránh tình trạng quên và làm mất đơn thuốc giấy, ứng dụng cũng lưu lại lịch sử sử dụng thuốc. Ngoài ra, người dùng có thể tìm kiếm thông tin về từng loại thuốc qua thanh tìm kiếm.
+Theo Nhật Cường, nếu chỉ làm một phiên bản để nộp theo yêu cầu của giảng viên thì rất đơn giản. Đề bài chỉ yêu cầu với một hóa đơn có sẵn, làm thế nào để ứng dụng có thể đọc được tên thuốc trên đơn là đạt. Tuy nhiên, nhóm lại có tham vọng muốn đưa sản phẩm hỗ trợ cuộc sống thực tế của người tiêu dùng.
+Được biết, nhóm nghiên cứu có 5 thành viên, đến từ nhiều chuyên ngành khác nhau, thay phiên đảm nhận những nhiệm vụ riêng.
+"Nhóm có 3 bạn nghiên cứu mô hình xử lý đơn thuốc, 1 bạn lập trình ứng dụng và 1 bạn chịu trách nhiệm quản lý toàn bộ cơ sở dữ liệu. Trong đó phần "ngốn" thời gian nhất là xây dựng mô hình dữ liệu, phải mất hơn 3 tháng", Cường cho hay.
+Một trong những thách thức mà nhóm phải vượt qua đó chính là làm thế nào để trích xuất thông tin từ hình ảnh một cách tối ưu nhất. Có lúc những đơn thuốc do người dùng chụp sẽ bị mờ, nhòe, không ngay ngắn sẽ gây khó khăn cho hệ thống trong quá trình nhận diện và trích xuất thông tin.
+Không chỉ thế, chi phí mua server (máy chủ) tốc độ cao cũng là một trở ngại. "Các server miễn phí thường xử lý và trích xuất thông tin chậm. Điều này sẽ khiến người dùng cảm thấy mất thời gian và khó chịu", Hưng chia sẻ.
+Để giải quyết vấn đề trên, nhóm đã phải cải thiện mô hình xử lý thông tin rất nhiều lần. Nhóm đã thử nghiệm một số mô hình để làm nét, khử nhiễu và xử lý chữ trên các bức ảnh, sao cho thật chính xác trong thời gian ngắn.
+"Nhóm đã thử nghiệm hệ thống với hơn 2000 đơn thuốc ở nhiều dạng mẫu khác nhau từ các phòng khám, bệnh viện. Tất cả đều được thực hiện thủ công vì không có dữ liệu sẵn. Tuy mất khá nhiều thời gian nhưng sẽ giúp ứng dụng nhận diện được đa dạng các mẫu đơn thuốc, không chỉ trong một đơn vị nội bộ nhất định", Cường cho hay.
+Hiện tại, ứng dụng đã nhận được nhiều phản hồi tích cực và có hơn 100 lượt tải trên nền tảng số. Sắp tới, nhóm dự kiến sẽ ra mắt phiên bản mới với khả năng phân tích các chẩn đoán bệnh trên đơn và gợi ý chế độ chăm sóc sức khỏe phù hợp với mỗi cá nhân.
+Bình Minh
