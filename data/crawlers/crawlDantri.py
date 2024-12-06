@@ -129,4 +129,4 @@ def main(category, base_url, start_page, end_page):
             break
 
 # Ví dụ gọi hàm main cho thể loại 'technology', từ trang 6 đến trang 36
-main("economy", "https://dantri.com.vn/kinh-doanh", 2, 30)
+main("entertaiment", "https://dantri.com.vn/giai-tri", 3, 30)
