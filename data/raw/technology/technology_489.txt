@@ -1,7 +1,0 @@
-OpenAI có thể đe dọa Google
-Nguồn tin từ  The Information  cho biết OpenAI đã tuyển dụng được hai kỹ sư chủ chốt của dự án Google Chrome. Trong đó, Ben Goodger được biết đến là một trong những người sáng tạo ra trình duyệt này.
-Nếu kế hoạch trên được triển khai, công ty do Sam Altman lãnh đạo sẽ trở thành đối thủ cạnh tranh trực tiếp của Google, công ty hiện chiếm phần lớn thị trường trình duyệt và tìm kiếm.
-Dự án của OpenAI càng nhận được nhiều sự quan tâm hơn trong bối cảnh Bộ Tư pháp Mỹ (DOJ) kêu gọi Alphabet (công ty mẹ của Google) bán trình duyệt Chrome như một biện pháp khắc phục vụ kiện chống độc quyền.
-Theo hồ sơ gửi lên tòa án, DOJ cho rằng việc chia tách này sẽ "vĩnh viễn ngăn chặn quyền kiểm soát của Google đối với việc thiết lập công cụ tìm kiếm của công ty và cho phép các công cụ tìm kiếm của đối thủ có khả năng truy cập vào trình duyệt".
-Chrome được Google cho ra mắt vào năm 2008. Trình duyệt này cung cấp cho gã khổng lồ tìm nguồn dữ liệu người dùng, sau đó Google có thể sử dụng dữ liệu này để nhắm mục tiêu quảng cáo. DOJ cho biết việc buộc Google bán Chrome sẽ tạo ra sân chơi bình đẳng hơn trong lĩnh vực tìm kiếm.
-"Để khắc phục những tác hại trên, Google được yêu cầu thoái vốn khỏi Chrome. Điều này sẽ vĩnh viễn ngăn chặn Google kiểm soát công cụ quan trọng này và cho phép đối thủ có khả năng truy cập trình duyệt, nơi mà nhiều người dùng sử dụng như cổng vào Internet", hồ sơ dài 23 trang nêu rõ.

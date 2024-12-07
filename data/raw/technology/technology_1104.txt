@@ -1,7 +1,0 @@
-Những ứng dụng độc hại này sẽ khiến bạn mất tài khoản Facebook, ngân hàng
-Mới đây, nhóm nghiên cứu của công ty  bảo mật  Zscaler đã phát hiện ra hàng loạt phần mềm độc hại có chứa mã độc Joker, Facestealer và Coper.
-Mã độc Joker được phát hiện lần đầu vào năm 2019. Nó được biết đến là một biến thể của phần mềm gián điệp, có khả năng đánh cắp nhiều thông tin cá nhân như tin nhắn, danh bạ và thông tin thiết bị. Thậm chí, mã độc này còn có thể âm thầm đăng ký nhiều dịch vụ tính phí.
-Các chuyên gia đã phát hiện ra hơn 50 ứng dụng có chứa mã độc Joker trên CH Play. Trước khi bị xóa bỏ, chúng đã thu hút hơn 300.000 lượt tải xuống. Một số cái tên nổi bật bao gồm Simple Note Scanner, Universal PDF Scanner, Private Messenger, Premium SMS, Smart Messages, Text Emoji SMS, Blood Pressure Checker, Funny Keyboard, Memory Silent Camera, Custom Themed Keyboard...
-Trong khi đó, phần mềm Vanilla Camera được phát hiện có chứa mã độc Facestealer. Loại mã độc này được sử dụng để đánh cắp thông tin đăng nhập Facebook bằng cách tạo ra một màn hình đăng nhập giả.
-Nguy hiểm hơn, các chuyên gia tại Zscaler còn tìm thấy mã độc Coper. Nó có khả năng chặn và gửi tin nhắn SMS, khóa và mở khóa màn hình, ngăn chặn việc gỡ cài đặt và cho phép kẻ xấu kiểm soát điện thoại. Thậm chí, kẻ gian còn có thể truy cập vào các thông tin quan trọng như tài khoản ngân hàng của nạn nhân.
-Nếu đã cài đặt những ứng dụng trên, người dùng cần gỡ chúng ra khỏi thiết bị ngay lập tức.

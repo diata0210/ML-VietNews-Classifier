@@ -1,9 +1,0 @@
-Chuyển đổi số cần gắn với an toàn, an ninh
-Chia sẻ tại hội thảo Lãnh đạo cấp cao Công nghệ thông tin và An toàn thông tin (CIO CSO Summit 2024), ông Lê Văn Tuấn, Cục trưởng Cục An toàn thông tin (Bộ Thông tin và Truyền thông), cho biết tội phạm mạng sử dụng công nghệ ngày càng cao, đặc biệt là AI.
-"Năm qua, các  doanh nghiệp  lớn bị tấn công bằng mã độc ransomware gây ảnh hưởng nghiêm trọng đến hoạt động, tổn thất về kinh tế và uy tín. Đây là lời cảnh báo khi tội phạm mạng quốc tế ngày càng quan tâm đến các doanh nghiệp Việt Nam", ông Tuấn chia sẻ.
-Thống kê trong 9 tháng đầu năm, Cục ATTT đã phát hiện, cảnh báo và hướng dẫn xử lý 4.279 cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam, đồng thời ghi nhận 243.337 mã độc.
-Trong khi đó, theo ghi nhận từ hệ thống Viettel Threat Intelligence, tình hình an ninh mạng tại Việt Nam đang đứng trước những thách thức lớn. Tỷ lệ tấn công mã độc tống tiền (ransomware) đã tăng đột biến 70% trong quý I so với cùng kỳ năm 2023
-Chỉ trong 6 tháng đầu năm, hệ thống này đã ghi nhận 46 vụ rò rỉ dữ liệu làm lộ khoảng 13 triệu bản ghi khách hàng, 12,3GB mã nguồn và 16GB dữ liệu nhạy cảm. Đặc biệt, đến tháng 9, số vụ tấn công mạng bao gồm 61 vụ mã độc, 24 vụ tấn công có chủ đích (APT) và 672.584 vụ tấn công từ chối dịch vụ (DDoS).
-Lãnh đạo Cục An toàn thông tin khẳng định chuyển đổi số cần gắn với an toàn, an ninh. An toàn thông tin là nền tảng sống còn, không phải là sự lựa chọn mà là bắt buộc để duy trì và phát triển.
-"Trong bối cảnh tấn công mạng gia tăng cả về quy mô lẫn độ tinh vi, nhận thức của nhiều doanh nghiệp Việt về vấn đề an ninh mạng vẫn chưa đạt đến mức cần thiết. Các doanh nghiệp phải thay đổi tư duy từ phòng thủ thụ động sang chiến lược  bảo mật  chủ động và toàn diện", ông Tuấn chia sẻ.
-Bên cạnh đó, lãnh đạo Cục An toàn thông tin cũng kêu gọi các doanh nghiệp Việt Nam cần phải thay đổi. Điều này không chỉ vì sự sống còn của họ mà còn để bảo vệ hệ sinh thái số của quốc gia.

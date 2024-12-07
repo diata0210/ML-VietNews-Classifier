@@ -1,6 +1,0 @@
-Ứng dụng lừa đảo thu hút hàng nghìn bình luận và đánh giá tích cực
-Các chuyên gia  bảo mật  tại Cyfirma vừa phát hiện ra một ứng dụng độc hại trên hệ điều hành Android có tên SafeChat. Ứng dụng này chứa mã độc có khả năng xâm nhập vào hệ thống và đánh cắp tin nhắn của nạn nhân.
-"Trong quá trình nghiên cứu, chúng tôi đã tìm thấy một phần mềm độc hại trên nền tảng Android nhắm mục tiêu vào người dùng tại khu vực châu Á. Nó được ngụy trang dưới hình thức một ứng dụng trò chuyện", chuyên gia tại Cyfirma, chia sẻ.
-Sau khi cài đặt, SafeChat sẽ yêu cầu rất nhiều quyền truy cập khác nhau vào dữ liệu hệ thống. Ứng dụng này sẽ âm thầm đánh cắp các thông tin bao gồm tin nhắn văn bản, danh bạ, nhật ký cuộc gọi từ các dịch vụ phổ biến như WhatsApp, Telegram và Signal.
-Hiện tại, phần mềm độc hại này đã bị gỡ bỏ khỏi kho ứng dụng Google Play. Trước khi biến mất, SafeChat đã thu hút hàng chục nghìn lượt tải xuống cùng vài nghìn bình luận và đánh giá tích cực.
-Có thể thấy, nhóm tin tặc đã sử dụng những bình luận giả để thu hút sự chú ý của người dùng. Nếu đã lỡ cài đặt phần mềm này, người dùng cần nhanh chóng gỡ chúng khỏi smartphone để tránh bị đánh cắp dữ liệu.

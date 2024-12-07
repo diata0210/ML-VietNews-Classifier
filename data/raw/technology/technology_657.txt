@@ -1,8 +1,0 @@
-Vì sao có thời điểm tốc độ mạng 5G chậm hơn 4G tại Việt Nam?
-Từ ngày 15/10, mạng 5G đã được Viettel triển khai tại nhiều tỉnh, thành trên cả nước. Sau vài ngày sử dụng, nhiều người dùng phản ánh rằng tình trạng kết nối dịch vụ 5G hiện chưa ổn định. Thậm chí, tốc độ 5G tại một số khu vực gần như không khác biệt so với 4G.
-Lý giải cho vấn đề này, đại diện nhà mạng Viettel cho biết có nhiều yếu tố khác nhau có thể ảnh hưởng đến kết quả kiểm tra tốc độ mạng 5G.
-"Hiện tại, số lượng trạm phát sóng 5G vẫn còn hạn chế và chưa tương đương khi so với trạm phát 4G. Ở khung giờ thấp tải, tốc độ 5G có thể đạt mức trên 500Mbps. Tuy nhiên, khi có quá nhiều người dùng thử nghiệm trong cùng một thời điểm, tốc độ kiểm tra có thể sẽ bị giảm xuống", đại diện Viettel chia sẻ.
-Ngoài ra, còn một số yếu tố khác cũng tác động đến tốc độ mạng 5G như vị trí sử dụng thiết bị, ở gần hay xa trạm phát sóng hay thời điểm đó có nhiều người dùng truy cập hay không.
-"Cơ chế của các phần mềm Speedtest là lấy hết tài nguyên của hệ thống để kiểm tra tốc độ ngay tại thời điểm đó. Tuy nhiên, trải nghiệm sử dụng thực tế sẽ không như vậy. Với các tác vụ như xem video trực tuyến, duyệt web hay các dịch vụ data khác, năng lực xử lý của mạng 5G sẽ đáp ứng tốt hơn so với 4G", đại diện Viettel nói thêm.
-Về lộ trình phủ sóng 5G tại Việt Nam, đại diện Viettel cho biết nhà mạng này đang ưu tiên triển khai tại các khu vực thành thị. Theo đó, hơn 6.000 trạm phát sóng 5G đã được lắp đặt, phủ 95% dân số ngoài trời.
-Đến năm 2025, nhà mạng sẽ tiếp tục mở rộng vùng phủ sóng trong nhà. Theo kế hoạch 3-5 năm tới, người dùng ở các khu vực thành thị có thể sử dụng mạng 5G trong nhà giống như trải nghiệm 4G ở thời điểm hiện tại.

@@ -1,8 +1,0 @@
-ChatGPT đạt 200 triệu người dùng hàng tuần
-ChatGPT  tạo nên cơn sốt  AI tạo sinh  từ cuối 2022 và sức hút của chatbot này vẫn chưa có dấu hiệu đi xuống, khi số lượng người dùng hàng tuần tăng gấp đôi kể từ tháng 11/2023.
-OpenAI cũng cho biết 92% công ty trong bảng xếp hạng Fortune 500 đang dùng sản phẩm của họ. Bên cạnh đó, hoạt động sử dụng API tự động của OpenAI cũng tăng gấp đôi kể từ khi mô hình  GPT-4o mini  được phát hành vào tháng 7.
-Sam Altman, CEO OpenAI, nói: "Mọi người đang sử dụng công cụ của chúng tôi như một phần của cuộc sống hàng ngày, tạo ra sự khác biệt thực sự trong các lĩnh vực như chăm sóc sức khỏe và giáo dục, dù chỉ để hỗ trợ công việc, giải quyết vấn đề khó khăn, hay khai mở sự sáng tạo".
-Cuộc chiến lôi kéo người dùng AI đang diễn ra gay gắt giữa Microsoft, Google, OpenAI và Meta. Các công ty đều muốn người dùng lựa chọn chatbot của họ. Meta cho biết quy mô sử dụng mô hình mã nguồn mở của họ đã tăng gấp đôi từ tháng 5 đến tháng 7 sau khi phát hành Llama 3.1.
-Trong khi đó, phân tích của  The Information  dựa trên tài liệu tài chính nội bộ cho thấy OpenAI đang trên đà chi khoảng 7 tỷ USD cho riêng việc đào tạo mô hình AI và 1,5 tỷ USD cho nhân sự. Chi phí hoạt động cao vọt có thể khiến họ lỗ 5 tỷ USD năm nay.
-Còn theo  Reuters , công ty đứng sau ChatGPT cũng đang xây dựng một AI có khả năng suy luận nâng cao để tiến đến mô hình AI tổng quát ( AGI ). Dự án có tên nội bộ "Strawberry", là phần mở rộng của  dự án bí ẩn Q* , hứa hẹn có thể thể hiện "phản ứng và suy luận giống người".
-Huy Đức

@@ -1,4 +1,0 @@
-Học ngôn ngữ lập trình nào để theo ngành Thiết kế vi mạch?
-Em là sinh viên năm thứ hai ngành Công nghệ vật lý điện tử và tin học, đang định hướng theo chuyên ngành Thiết kế vi mạch. Theo chương trình, em đang học ngôn ngữ lập trình C và sắp tới sẽ học Python. Em muốn hỏi mình nên ưu tiên ngôn ngữ nào để có thể theo Thiết kế vi mạch?
-Ngoài ra, em mong muốn sang năm sau tìm cơ hội thực tập để học hỏi và áp dụng kiến thức vào thực tế. Em rất mong nhận được tư vấn về các vị trí thực tập và làm việc có liên quan tới chuyên ngành.
-Em xin cảm ơn.

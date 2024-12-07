@@ -1,7 +1,0 @@
-Thiết kế khó hiểu trên Mac Mini M4
-Tối 29/10, Apple đã âm thầm giới thiệu máy tính Mac Mini thế hệ mới sử dụng chip M4 và M4 Pro. Sản phẩm này sở hữu thiết kế nhỏ gọn giúp tiết kiệm không gian lắp đặt thiết bị.
-Tuy vậy, một điều khó hiểu trong thiết kế của mẫu máy tính này là vị trí đặt phím nguồn. Thay vì đặt ở mặt trên hay phía trước, phím nguồn của máy lại được đặt ở mặt dưới của thiết bị. Điều này khiến cho việc thao tác sử dụng trở nên khó khăn và bất tiện hơn.
-"Dù có thiết kế nhỏ gọn, bạn cũng khó có thể đặt Mac Mini M4 vào những không gian nhỏ hẹp. Bạn sẽ phải nghiêng hoặc lật ngược thiết bị mỗi lần muốn bật máy", trang Apple Insider nhận định.
-Thiết kế này còn khiến nhiều người dùng liên tưởng đến mẫu chuột Magic Mouse 2 với cổng sạc đặt ở mặt dưới. Người dùng sẽ phải lật ngược chuột Magic Mouse mỗi lần muốn sạc thiết bị này.
-Với phiên bản Mac Mini dùng chip M4, người dùng có tùy chọn bộ nhớ RAM tối đa 32GB, đi kèm ổ cứng tối đa 2TB. Trong khi đó, phiên bản dùng chip M4 Pro có tùy chọn bộ nhớ RAM lên đến 64GB và ổ cứng lưu trữ tối đa 8TB.
-Sản phẩm này vẫn được trang bị tương đối đầy đủ các cổng kết nối, bao gồm 2 cổng USB-C ở phía trước. Mặt sau có giắc cắm tai nghe 3,5mm, cổng mạng Ethernet, HDMI, 3 cổng USB-C.

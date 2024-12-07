@@ -1,7 +1,0 @@
-So sánh tốc độ kết nối thực tế của 5G và 4G
-Đánh giá nhanh:
-- Mạng 5G cho tốc độ cao vượt trội, nhưng chưa ổn định trong giai đoạn đầu triển khai. Kết quả đo có thể chênh lệch ở những địa điểm cách nhau vài chục mét.
-- Tốc độ tải của 5G cao hơn nhiều tốc độ tối đa mạng 4G đạt được.
-- Ở những khu vực mạng 5G đạt tốc độ cao, kết nối 4G có xu hướng yếu hơn mức trung bình.
-- Tốc độ đường download cao hơn nhiều lần tốc độ upload.
-- Với các tác vụ như lướt web, mạng xã hội, 4G đủ nhanh và không khác biệt lớn với 5G. Chênh lệch thấy rõ khi tải những file dung lượng lớn, điện thoại sử dụng 5G có thể hoàn thành trong hơn 10 giây với ứng dụng hơn 1 GB.

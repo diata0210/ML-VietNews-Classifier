@@ -6,12 +6,12 @@ from vncorenlp import VnCoreNLP
 from pyvi import ViTokenizer
 
 # Khởi tạo VnCoreNLP (đảm bảo đã tải VnCoreNLP từ GitHub hoặc đường dẫn đúng)
-vncorenlp = VnCoreNLP('D:/Code/VnCoreNLP/VnCoreNLP-1.1.1.jar', annotators="wseg,pos,ner,parse", max_heap_size='-Xmx2g')
+vncorenlp = VnCoreNLP('E:\BKHN\ML\VnCoreNLP\VnCoreNLP-1.1.1.jar', annotators="wseg,pos,ner,parse", max_heap_size='-Xmx2g')
 
 # Hàm tải stopwords tiếng Việt từ file
 def load_vietnamese_stopwords():
     stopwords = []
-    with open('../data/stopwords.txt', 'r', encoding='utf-8') as f:
+    with open('./data/stopwords.txt', 'r', encoding='utf-8') as f:
         stopwords = [line.strip() for line in f.readlines()]
     return stopwords
 
@@ -62,13 +62,17 @@ def process_files_in_directory(directory_path):
                     try:
                         with open(file_path, 'r', encoding='utf-8-sig') as file:  # Thử đọc với utf-8-sig
                             text = file.read()
-                            # Tiền xử lý văn bản
-                            processed_text = preprocess_text(text)
-                            # Thêm vào danh sách với nhãn category
-                            data.append({'Text': processed_text, 'Label': category})
                     except UnicodeDecodeError:
-                        print(f"Không thể đọc file {file_path}. Đảm bảo file có mã hóa UTF-8.")
-                        continue
+                        try:
+                            with open(file_path, 'r', encoding='utf-16') as file:  # Thử đọc với utf-16
+                                text = file.read()
+                        except UnicodeDecodeError:
+                            print(f"Không thể đọc file {file_path}. Đảm bảo file có mã hóa UTF-8 hoặc UTF-16.")
+                            continue
+                    # Tiền xử lý văn bản
+                    processed_text = preprocess_text(text)
+                    # Thêm vào danh sách với nhãn category
+                    data.append({'Text': processed_text, 'Label': category})
     
     # Chuyển thành DataFrame
     df = pd.DataFrame(data)
@@ -78,13 +82,12 @@ def process_files_in_directory(directory_path):
 def save_to_csv(df, output_path):
     df.to_csv(output_path, index=False)
     print(f"Dữ liệu đã được lưu vào {output_path}")
-
 # Main function
 if __name__ == "__main__":
     # Thư mục chứa dữ liệu gốc (raw data)
-    input_directory = '../data/raw'  # Đã sửa đường dẫn
+    input_directory = './data/raw'  # Đã sửa đường dẫn
     # Đường dẫn lưu file CSV đã tiền xử lý
-    output_file = '../data/processed/training_data.csv'  # Đường dẫn lưu file CSV
+    output_file = './data/training_data.csv'  # Đường dẫn lưu file CSV
 
     # Tiền xử lý và lưu dữ liệu
     processed_data = process_files_in_directory(input_directory)

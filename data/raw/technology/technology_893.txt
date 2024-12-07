@@ -1,8 +1,0 @@
-Apple Intelligence sẽ hỗ trợ tiếng Việt
-Cụ thể, danh sách mới bổ sung gồm tiếng Anh (Ấn Độ), tiếng Anh (Singapore), tiếng Đức, tiếng Ý, tiếng Hàn, tiếng Bồ Đào Nha, tiếng Tây Ban Nha và tiếng Việt. Ngoài ra, Apple cũng hứa hẹn sẽ hỗ trợ thêm nhiều ngôn ngữ khác trong tương lai.
-Trước đó, công ty cho biết Apple Intelligence sẽ chỉ hỗ trợ tiếng Anh (Mỹ) khi ra mắt chính thức ở phiên bản hệ điều hành iOS 18.1 sắp tới. Trong phiên bản thử nghiệm, đây cũng là ngôn ngữ duy nhất mà AI của Apple có thể hoạt động.
-Apple Intelligence là hệ thống trí thông minh nhân tạo (AI) do công ty phát triển dành riêng cho các thiết bị như iPhone, iPad và Mac. Đây là sự kết hợp giữa mô hình AI tạo sinh trên thiết bị và do máy chủ cung cấp.
-Apple cho biết giải pháp AI tạo sinh của công ty được cá nhân hóa để phù hợp với bối cảnh sử dụng của mỗi người dùng, trong khi vẫn đảm bảo duy trì quyền riêng tư và  bảo mật  dữ liệu.
-Công ty cũng công bố Private Cloud Compute, một hệ thống cơ sở hạ tầng máy chủ được sử dụng để chạy các mô hình phức tạp hơn. Apple cho biết điều này cho phép các mô hình AI mạnh mẽ hơn xử lý dữ liệu của người dùng mà không từ bỏ bất kỳ quyền riêng tư nào.
-Một số tính năng nổi bật của Apple Intelligence bao gồm Writing Tools, hỗ trợ người dùng viết, kiểm tra hay thay đổi văn bản tại bất cứ đâu như Mail, Notes, Pages và các ứng dụng bên thứ ba.
-Apple Intelligence cũng bao gồm bản cập nhật lớn nhất từ trước đến nay cho trợ lý ảo Siri. Theo đó, Siri đã có thể nhận diện bối cảnh, từ đó đưa ra câu trả lời một cách tự nhiên và phong phú hơn. Người dùng cũng có thể yêu cầu Siri thực hiện nhiều hành động khác nhau.

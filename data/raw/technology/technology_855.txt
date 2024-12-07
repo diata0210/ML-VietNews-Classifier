@@ -1,7 +1,0 @@
-Trải nghiệm máy tính có kích thước nhỏ như cục phát WiFi
-+ Ưu điểm:
-- Thiết kế thùng máy nhỏ gọn.
-- Hiệu suất ổn định.
-+ Hạn chế:
-- Không được trang bị card đồ họa rời.
-- Không bán kèm bàn phím và chuột.

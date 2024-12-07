@@ -1,6 +1,0 @@
-TSMC bắt đầu sản xuất chip iPhone tại Mỹ
-Trang công nghệ  Tom'shardware  dẫn lời chuyên gia Tim Culpan cho biết phải đến 2025, nhà máy Fab 21 của TSMC ở Arizona (Mỹ) mới chính thức vận hành, nhưng cơ sở này hiện đã sản xuất chip cho Apple - khách hàng lớn nhất của TSMC.
-Chip được sản xuất là A16 Bionic, ra mắt năm 2022 trên tiến trình 4 nm, ban đầu dành cho bộ đôi iPhone 14 Pro và 14 Pro Max. TSMC tạo mẫu chip này với số lượng hạn chế do vẫn đang tinh chỉnh công cụ mới. Bên cạnh đó, năng suất hiện tại của Fab 21 thấp hơn một chút so với các cơ sở của  TSMC  tại đảo Đài Loan và dự kiến ngang bằng trong vài tháng tới.
-Chip A16 Bionic của Apple là một SoC khá phức tạp gồm 16 tỷ bóng bán dẫn với sáu nhân xử lý, 5 nhân GPU, NPU 16 TOPS và tổng cộng 44 MB cache. Bộ xử lý có kích thước khoảng 113 mm2 và hiện trang bị trên iPhone 15 và iPhone 15 Plus.
-Chuyên gia Tim Culpan từng dự đoán TSMC tại Mỹ sẽ chỉ phục vụ các dòng chip ít quan trọng của Apple, như dòng H dành cho tai nghe AirPods. Do đó, việc cơ sở này sản xuất A16 Bionic cho thấy công ty Đài Loan có thể sẽ sản xuất thêm những mẫu chip cao cấp nhất trong tương lai.
-Hiện chưa có thông tin Apple sẽ trang bị A16 Bionic tại Mỹ cho dòng sản phẩm nào, nhưng nhiều khả năng là mẫu giá rẻ  iPhone SE 4 , dự kiến được giới thiệu đầu năm sau.

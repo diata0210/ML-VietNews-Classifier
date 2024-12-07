@@ -1,7 +1,0 @@
-Huawei bị phát hiện dùng chip của TSMC
-Bloomberg  dẫn nguồn tin nội bộ của  TSMC  rằng một số vi xử lý của công ty đã xuất hiện trong sản phẩm  Huawei . Báo cáo cho biết một công ty bên thứ ba đã cung cấp chip cho công ty Trung Quốc để sử dụng trong máy chủ AI đang phát triển.
-Thông tin trên xuất hiện vài ngày sau khi Cục Công nghiệp và An ninh của Bộ Thương mại Mỹ bắt đầu  điều tra , cáo buộc TSMC có thể vi phạm quy định xuất khẩu của nước này.
-Trong tuyên bố chính thức, TSMC nói họ là "công ty tuân thủ pháp luật", cam kết đã làm theo tất cả quy tắc và quy định, bao gồm cả quy định xuất khẩu do Mỹ áp dụng.
-Huawei sau đó phủ nhận và khẳng định chưa nhận được bất kỳ chip TSMC nào kể từ khi công ty này bị Bộ Thương mại Mỹ đưa vào danh sách đen năm 2020.
-Công ty thứ ba trong sự việc không được nêu tên "do nhạy cảm". Hiện không rõ đây có phải công ty bình phong của Huawei không và trụ sở ở đâu. Báo cáo chỉ nhấn mạnh chip TSMC đã đi qua đường vòng để có trong máy chủ phát triển các mô hình trí tuệ nhân tạo của Huawei.
-Huawei hiện sử dụng chip 7 nm do SMIC sản xuất, kém hơn so với công nghệ trong ngành vốn đã tiến lên 2 nm. Tuy nhiên, khả năng sản xuất SoC như vậy ở quy mô lớn cũng khiến giới chức Mỹ nghi ngờ. Nhà sản xuất Trung Quốc được cho là đã tích trữ một số chipset TSMC sản xuất vào năm 2019 để sử dụng sau này.

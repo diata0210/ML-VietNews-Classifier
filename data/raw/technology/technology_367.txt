@@ -1,7 +1,0 @@
-Apple dự định đầu tư vào OpenAI
-Theo  WSJ,  hiện chưa rõ  Apple  sẽ đầu tư bao nhiêu, nhưng vòng gây quỹ mới nhất dự kiến định giá OpenAI trên 100 tỷ USD. Hồi tháng 2, công ty sở hữu  ChatGPT  hoàn tất thỏa thuận bán cổ phần trong một đợt chào mua công khai do liên doanh Thrive Capital dẫn đầu, giúp công ty được định giá 80 tỷ USD trở lên.
-Microsoft cũng được cho là có kế hoạch đầu tư thêm vào OpenAI cùng lúc với thỏa thuận của Apple.
-Apple và OpenAI trở thành đối tác lớn từ đầu tháng 6 khi công bố tích hợp ChatGPT vào Siri trên hệ điều hành iOS 18, iPadOS 18 và macOS Sequoia cuối năm nay. Apple có thể không phải trả tiền cho thương vụ do hai bên đánh giá việc đưa ChatGPT lên iOS 18 "có giá trị ngang bằng hoặc lớn hơn tiền mặt".
-Siri có thể hiển thị câu trả lời trực tiếp từ ChatGPT cho câu hỏi từ nhiều lĩnh vực khác nhau. Công cụ AI cũng trở thành một phần của tính năng Writing Tools trên toàn hệ thống của Apple, cho phép người dùng tạo văn bản và hình ảnh. Apple cho biết ChatGPT sẽ được hỗ trợ bởi mô hình GPT-4o mới nhất trên các nền tảng của mình.
-Người dùng iPhone, iPad và Mac sẽ có thể sử dụng ChatGPT miễn phí mà không cần tạo tài khoản. Những người đăng ký phiên bản Plus có thể kết nối tài khoản của họ để truy cập tính năng trả phí trên thiết bị. Apple khẳng định OpenAI sẽ không lưu các câu lệnh được người dùng thực hiện từ thiết bị của mình và địa chỉ IP sẽ bị ẩn.
-Hoài Anh

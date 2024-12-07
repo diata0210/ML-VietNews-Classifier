@@ -1,8 +1,0 @@
-Apple phát hành bản vá sửa hàng loạt lỗi trên iPhone
-"Bản cập nhật này cung cấp các bản sửa lỗi  bảo mật  quan trọng và được đề xuất cho tất cả người dùng," Apple cho biết trong phần mô tả của bản cập nhật.
-Ngoài ra, công ty không cung cấp thêm bất kỳ thông tin chi tiết nào khác về bản nâng cấp này.
-Phiên bản iOS 18.1.1 hỗ trợ tất cả thiết bị đã được cập nhật iOS 18. Để nâng cấp lên hệ điều hành này, người dùng cần truy cập vào phần  Cài đặt -> Cài đặt chung -> Cập nhật phần mềm .
-Trước đó, nhiều người dùng iPhone phàn nàn rằng thiết bị của họ đã gặp phải hàng loạt vấn đề khác nhau sau khi cập nhật iOS 18. Những sự cố này xuất hiện trên cả dòng iPhone 16 và những thiết bị đời cũ hơn.
-Gần đây nhất, ứng dụng Ảnh (Photos) cũng gặp lỗi trên iOS 18. Cụ thể, khi người dùng cố gắng lưu các chỉnh sửa trên ảnh, thiết bị hiển thị thông báo lỗi: "Đã xảy ra lỗi khi lưu ảnh này. Vui lòng thử lại sau".
-Người dùng không thể lưu các chỉnh sửa và buộc phải hủy bỏ thay đổi để thoát khỏi giao diện chỉnh sửa ảnh. Ngay cả những người dùng phiên bản thử nghiệm iOS 18.2 cũng không tránh khỏi vấn đề này.
-Trong khi đó, nhiều người dùng cho biết sau khi cập nhật iOS 18, iPhone gặp tình trạng đơ và treo máy khi sử dụng bàn phím mặc định của Apple để soạn văn bản, đặc biệt khi nhắn tin qua các ứng dụng bên thứ ba như Facebook Messenger hay Zalo.

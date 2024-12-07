@@ -1,7 +1,0 @@
-Google chuẩn bị xây dựng trung tâm dữ liệu đầu tiên tại Việt Nam?
-Theo  Reuters , Google đang cân nhắc việc xây dựng một trung tâm dữ liệu ở cấp độ hyperscale (quy mô lưu trữ lớn) tại TPHCM. Nguồn tin này tiết lộ các cuộc đàm phán nội bộ đang diễn ra và trung tâm dữ liệu có thể bắt đầu hoạt động vào năm 2027.
-"Động thái của Google được thúc đẩy bởi số lượng khách hàng sử dụng dịch vụ đám mây trong và ngoài Việt Nam, cũng như nền kinh tế số đang phát triển của quốc gia này. Việt Nam là một trong những thị trường phát triển nhanh nhất của YouTube",  Reuters  nhận định.
-Phát ngôn viên của Google từ chối đưa ra bình luận về kế hoạch xây dựng trung tâm dữ liệu này.
-Quy mô của các trung tâm dữ liệu thường được tính bằng công suất tiêu thụ điện năng. Hiện tại, thông tin rò rỉ chưa tiết lộ quy mô trung tâm của Google sẽ là bao nhiêu.
-Các trung tâm dữ liệu hyperscale có quy mô lớn nhất trong ngành, có mức tiêu thụ điện năng tương đương với một thành phố lớn. Một trung tâm dữ liệu hyperscale với công suất tiêu thụ điện năng 50 megawatt (MW) có giá ước tính 300-650 triệu USD.
-Trước đó, vào tháng 5, trang  Nikkei Asia  cũng đưa tin Alibaba cân nhắc xây dựng một trung tâm dữ liệu tại Việt Nam. Tuy vậy, công ty Trung Quốc từ chối bình luận về thông tin trên.

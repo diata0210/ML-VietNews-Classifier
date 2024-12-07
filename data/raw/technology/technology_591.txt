@@ -1,5 +1,0 @@
-iOS 18.2 sẽ cho phép xem thời gian sạc đầy pin iPhone
-Đối với phiên bản iOS 18.2 thử nghiệm, Apple đã tích hợp hàng loạt tính năng mới như Genmoji, Image Playgrounds hay ứng dụng Mail. Ngoài ra, Apple còn bổ sung một thay đổi nhỏ khi cho phép hiển thị thời gian sạc đầy pin iPhone. Cụ thể, tính năng này sẽ tính toán thời gian để sạc lại  điện thoại  dựa theo lượng điện năng mà thiết bị nhận được.
-Theo  PhoneArena , tính năng trên vẫn đang được phát triển và chưa hoàn thiện. Nó có thể được trang bị trên hệ điều hành iOS 18.2 chính thức hoặc các phiên bản cập nhật sau đó.
-Trước đó, Apple cũng đã bổ sung nhiều tùy chọn liên quan đến khả năng sạc pin trên iPhone. Theo đó, iOS 18 cho phép người dùng có thể thiết lập khả năng sạc pin tối đa ở mức 80%, 85%, 90% hoặc 95%. Tính năng này giúp bảo vệ tình trạng pin và gia tăng tuổi thọ của pin.
-Dự kiến, iOS 18.2 tiếp tục bổ sung thêm nhiều tính năng mới liên quan đến AI và bộ công cụ Apple Intelligence. Bản cập nhật này sẽ được công ty phát hành vào tháng 12.

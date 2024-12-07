@@ -1,8 +1,0 @@
-Apple treo thưởng một triệu USD cho ai tấn công được hệ thống AI của hãng
-Apple đã tích hợp các tính năng trí tuệ nhân tạo Apple Intelligence trên iPhone, iPad và Mac, cho phép xử lý yêu cầu của người dùng thông qua hệ thống máy chủ Private Cloud Compute.
-Điều này giúp tăng tốc độ xử lý nhưng cũng tiềm ẩn nguy cơ  bảo mật  khi dữ liệu người dùng có thể bị tin tặc tấn công.
-Để đảm bảo an toàn và riêng tư, Apple cam kết xóa mọi yêu cầu người dùng sau khi xử lý và sử dụng mã hóa đầu cuối để bảo vệ dữ liệu. Công ty không thể theo dõi các yêu cầu này dù kiểm soát hệ thống máy chủ.
-Apple đã mở chương trình săn tiền thưởng bảo mật, mời cộng đồng tham gia tìm kiếm lỗi bảo mật trên hệ thống máy chủ Private Cloud Compute.
-Phần thưởng cao nhất lên đến một triệu USD cho ai có thể tấn công từ xa và thực thi mã độc, và 250.000 USD cho việc xâm nhập để lấy cắp dữ liệu người dùng.
-Ban đầu, Apple chỉ mời một số chuyên gia bảo mật chọn lọc, nhưng giờ đây, cơ hội đã mở rộng cho tất cả mọi người. "Để khuyến khích nghiên cứu thêm về máy chủ PCC, chúng tôi đang mở rộng chương trình săn tiền thưởng bảo mật của Apple," đại diện Apple cho biết.
-Không chỉ Apple, các công ty công nghệ lớn như Microsoft, Google cũng thường trao thưởng lớn cho các chuyên gia bảo mật phát hiện lỗi nghiêm trọng. Việc này giúp tiết kiệm chi phí hơn so với khi các lỗi bảo mật bị tin tặc khai thác trước.

@@ -1,7 +1,0 @@
-Huawei mở rộng đào tạo tài năng công nghệ tại Việt Nam
-Huawei ICT Competition được tổ chức thường niên từ 2015, dành cho sinh viên chuyên ngành công nghệ thông tin trên thế giới, thu hút hơn 750.000 sinh viên từ hơn 2.000 trường cao đẳng và đại học ở 85 quốc gia và vùng lãnh thổ.
-Trong khi đó, chương trình bắt đầu có mặt tại Việt Nam từ 2022 với hai nội dung Cloud Track - với kiến thức về đám mây, big data, AI và Network Track - gồm kiến thức về truyền số liệu, bảo mật, mạng WLAN, DCN.
-Năm nay, cuộc thi mở rộng thêm lộ trình đào tạo Computing (điện toán) với kiến thức về openEuler (hệ điều hành mở Euler), openGauss (hệ quản trị cơ sở dữ liệu mở Gauss) và Kunpeng (bộ xử lý Kunpeng). Khi đăng ký tham gia từ 15/11 đến 10/12, sinh viên được cấp tài khoản học tập trên nền tảng trực tuyến Huawei Talent, chọn một trong ba nội dung học tập phù hợp.
-Cuối khóa, sinh viên sẽ thi để trở thành một trong ba người tham dự vòng Khu vực châu Á - Thái Bình Dương tại Malaysia đầu năm 2025 và có cơ hội tham gia tiếp vòng Chung kết toàn cầu tại Trung Quốc vào tháng 5 năm tới.
-Trước đó, tại vòng chung kết toàn cầu Huawei ICT Competition 2023-2024, đội Việt Nam vượt qua hơn 470 thí sinh thuộc 160 đội tuyển và đoạt giải ba nội dung Network Track.
-"Chúng tôi tin rằng, công nghệ phát triển thông qua đổi mới, công nghệ chuyển đổi thông qua chúng ta. Chúng tôi mong muốn thúc đẩy đào tạo tài năng số tại Việt Nam, mang đến cơ hội trao đổi quốc tế cho thế hệ trẻ, đóng góp vào quá trình chuyển đổi số thành công của Việt Nam", ông Macky Zhang, Tổng giám đốc Huawei Việt Nam, nói.

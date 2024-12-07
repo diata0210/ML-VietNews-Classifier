@@ -37,3 +37,6 @@ Thumbs.db
 # Dependency management
 pip-log.txt
 pip-delete-this-directory.txt
+
+
+data/raw/
